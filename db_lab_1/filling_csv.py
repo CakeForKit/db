@@ -26,11 +26,11 @@ def author_filling():
 def artwork_filling():
     fake = Faker()
     table_name = "artwork"
-    column_names = ', '.join(('id_artwork', 'style', 'year_create', 'format', 'id_author'))
+    column_names = ', '.join(('id_artwork', 'name', 'style', 'year_create', 'format', 'id_author'))
 
     with open(f"{path_to_data}{table_name}.csv", "w") as f:
         for i in range(COUNT):
-            vals = "{0};{1};{2};{3};{4}\n".format(i, fake.word(), fake.year(), fake.word(), random.randint(0, COUNT - 1))
+            vals = "{0};{1};{2};{3};{4};{5}\n".format(i, fake.word(), fake.word(), fake.year(), fake.word(), random.randint(0, COUNT - 1))
 
             f.write(vals)
 
@@ -59,9 +59,9 @@ def owner_of_artwork_filling():
             f.write(vals)
 
 
-def owner_of_artworkship_history_filling():
+def history_of_ownership_artwork_filling():
     fake = Faker()
-    table_name = "owner_of_artworkship_history"
+    table_name = "history_of_ownership_artwork"
     column_names = ', '.join(('id_owner_of_artwork', 'id_artwork'))
 
     k = 3
@@ -113,6 +113,6 @@ if __name__ == '__main__':
     artwork_filling()
     # author_artwork_filling()
     owner_of_artwork_filling()
-    owner_of_artworkship_history_filling()
+    history_of_ownership_artwork_filling()
     exhibition_filling()
     history_exhibition_filling()

@@ -6,7 +6,7 @@ ADD CONSTRAINT author_year_constraint CHECK (birth_year BETWEEN 0 AND 2024 AND
 ALTER TABLE artwork
 ADD CONSTRAINT year_constraint CHECK (year_create BETWEEN 0 AND 2024);
 
-ALTER TABLE owner_of_artworkship_history
+ALTER TABLE history_of_ownership_artwork
 ADD CONSTRAINT date_purchase_sale_constraint CHECK (date_purchase <= date_sale AND
                                                     date_sale <= NOW()::date);
 

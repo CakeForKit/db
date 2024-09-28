@@ -81,8 +81,7 @@ def exhibition_filling():
 
     return query
 
-
-if __name__ == '__main__':
+def filling():
     conn = psycopg2.connect(dbname='works_of_art', host='localhost', user='postgres', password='163785303')
     with conn.cursor() as cursor:
         # query = 'SELECT * FROM author'
@@ -97,54 +96,41 @@ if __name__ == '__main__':
         conn.commit()
     conn.close()
 
-    # artwork_filling()
 
-# import random
-# import datetime
-# from faker import Faker
-# from faker.providers.address.ru_RU import Provider
-#
-# COUNT = 100  # количество строк таблицы, которое хотим заполнить
-#
-#
-# # Создание объекта Faker с локализацией для России
-# # fake = Faker()
-# # fake.add_provider(Provider)
-#
-#
-# def author_filling():
-#     fake = Faker()
-#     # INSERT INTO author (id_author, first_name, last_name, birth_year, death_year) VALUES (1, 'qwe', 'wer', 2000, 2020)
-#     table_name = "author"
-#     column_names = ', '.join(('id_author', 'first_name', 'last_name', 'birth_year', 'death_year'))
-#
-#     filename = f'{table_name}_filling.sql'
-#     with open(filename, 'w') as f:
-#         f.write('DELETE FROM author;')
-#         for i in range(COUNT):
-#             birth = fake.date_of_birth(minimum_age=0, maximum_age=2000)
-#             vals = f"{i}, '{fake.first_name()}', '{fake.last_name()}', {birth.year}, NULL"
-#
-#             query = f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
-#             f.write(query)
-#
-#
-# def artwork_filling():
-#     table_name = 'artwork'
-#     column_names = ('id_artwork', 'style', 'year_create', 'id_author')
-#
-#     filename = f'{table_name}_filling.sql'
-#     with open(filename, 'w') as f:
-#         columns_str = ', '.join(f'"{column}"' for column in column_names)
-#         for i in range(COUNT):
-#             values = [i + 1, fake.word(), fake.year(), random.randint(0, COUNT)]
-#             values_str = ', '.join(str(value) for value in values)
-#             insert_query = f'INSERT INTO "{table_name}" ({columns_str}) VALUES ({values_str});\n'
-#             print(insert_query)
-#             f.write(insert_query)
-#         f.close()
-#
-#
-# if __name__ == '__main__':
-#     author_filling()
-#     # artwork_filling()
+def history_exhibition_adding():
+    conn = psycopg2.connect(dbname='works_of_art', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+
+        table_name = "history_exhibition"
+        column_names = ', '.join(('id_artwork', 'id_exhibition'))
+
+        # Получить результат
+        cursor.execute(f"SELECT count(*) from {table_name}")
+        len_history_exhibition = cursor.fetchall()[0][0]
+        cursor.execute(f"SELECT count(*) from artwork")
+        len_artwork = cursor.fetchall()[0][0]
+        cursor.execute(f"SELECT count(*) from exhibition")
+        len_exhibition = cursor.fetchall()[0][0]
+        print(f'len_history_exhibition = {len_history_exhibition}\n'
+              f'len_artwork = {len_artwork}\n'
+              f'len_exhibition = {len_exhibition}')
+
+        query = ''
+        count_add = 500
+        i = len_history_exhibition + 1
+        for exh_i in [random.randint(0, len_exhibition) for i in range(count_add)]:
+            art_i = random.randint(0, len_artwork)
+
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({art_i}, {exh_i});\n"
+
+        print(query)
+        cursor.execute(query)
+
+        conn.commit()
+
+    conn.close()
+
+
+if __name__ == '__main__':
+    history_exhibition_adding()
+

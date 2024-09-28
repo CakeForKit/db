@@ -8,20 +8,13 @@ death_year INT DEFAULT NULL
 
 CREATE TABLE IF NOT EXISTS artwork(
 id_artwork serial PRIMARY KEY,
+name TEXT,
 style VARCHAR(100),
 year_create INT,
 format TEXT,
 id_author INT DEFAULT NULL,
 FOREIGN KEY (id_author) REFERENCES author(id_author) ON DELETE SET NULL
 );
-
---CREATE TABLE IF NOT EXISTS author_artwork(
---id_author INT,
---id_artwork INT,
---FOREIGN KEY (id_author) REFERENCES author(id_author),
---FOREIGN KEY (id_artwork) REFERENCES artwork(id_artwork)
---);
-
 
 CREATE TABLE IF NOT EXISTS owner_of_artwork(
 id_owner_of_artwork serial PRIMARY KEY,
@@ -31,7 +24,7 @@ phone TEXT,
 adress TEXT
 );
 
-CREATE TABLE IF NOT EXISTS owner_of_artworkship_history(
+CREATE TABLE IF NOT EXISTS history_of_ownership_artwork(
 id_owner_of_artwork INT,
 id_artwork INT,
 FOREIGN KEY (id_owner_of_artwork) REFERENCES owner_of_artwork(id_owner_of_artwork),
