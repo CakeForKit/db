@@ -319,6 +319,35 @@
 -- from otv;
 
 
+-- -- авторы на выставках которые еще не закнчились
+
+
+-- insert into history_exhibition (id_artwork, id_exhibition)
+-- values (0, 1000);
+-- insert into history_exhibition (id_artwork, id_exhibition)
+-- values (10, 1001);
+-- insert into history_exhibition (id_artwork, id_exhibition)
+-- values (20, 1002);
+-- insert into history_exhibition (id_artwork, id_exhibition)
+-- values (31, 1001);
+-- insert into history_exhibition (id_artwork, id_exhibition)
+-- values (3, 1000);
+
+-- select art.id_artwork, aebe.id_exhibition, art.id_author, aebe.begin_date, aebe.end_date
+-- from artwork art
+-- join 	(
+-- 			select he.id_artwork, exh.id_exhibition, exh.begin_date, exh.end_date
+-- 			from history_exhibition he
+-- 			join (	select id_exhibition, begin_date, end_date
+-- 					from exhibition
+-- 					where now() < end_date
+-- 				) exh
+-- 			on he.id_exhibition = exh.id_exhibition
+-- 		) aebe
+-- on aebe.id_artwork = art.id_artwork;
+
+
+
 -- 24. Оконные функции. Использование конструкций MIN/MAX/COUNT OVER() 
 -- select *,	max(id_artwork) over(partition by id_exhibition) as maxIdExibition,
 -- 			min(id_artwork) over(partition by id_exhibition) as minIdExibition,
