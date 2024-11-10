@@ -91,7 +91,7 @@ drop function if exists fact;
 
 
 -- ХРАНИМУЮ ПРОЦЕДУРУ БЕЗ ПАРАМЕТРОВ ИЛИ С ПАРАМЕТРАМИ
--- продлить все выставки вычавшиеся после st_date на plus_days дней
+-- продлить все выставки начавшиеся после st_date на plus_days дней
 create or replace procedure extend_exhibitions(st_date date, plus_days int)
 as $$
 begin
@@ -205,6 +205,7 @@ delete from author
 where id_author = 1000;
 
 drop trigger if exists trig_after_insert_authors on author;
+
 
 
 -- Триггер INSTEAD OF 
