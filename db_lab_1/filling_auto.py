@@ -5,7 +5,106 @@ from faker import Faker
 from faker.providers.address.ru_RU import Provider
 
 COUNT = 1000  # количество строк таблицы, которое хотим заполнить
+COUNT_RK = 15
 
+
+def em_fill():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        table_name = "rk.employees"
+        column_names = ', '.join(('id_employee', 'name', 'birth_year', 'position'))
+
+        query = ''
+        for i in range(COUNT_RK):
+            birth = fake.date_of_birth(minimum_age=0, maximum_age=2000)
+            vals = f"{i}, '{fake.first_name() + ' ' + fake.last_name()}', {birth.year}, '{fake.word()}'"
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+        conn.commit()
+    conn.close()
+
+em_fill()
+
+def rates_fill():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        table_name = "rk.rates"
+        column_names = ', '.join(('id_rates', 'sale', 'purchase'))
+
+        query = ''
+        for i in range(COUNT_RK):
+            birth = fake.date_of_birth(minimum_age=0, maximum_age=2000)
+            vals = f"{i}, '{random.randint(0, 10000)}', {random.randint(0, 10000)}"
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+        conn.commit()
+    conn.close()
+
+rates_fill()
+
+def op_exchange_fill():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        table_name = "rk.op_exchange"
+        column_names = ', '.join(('id_op', 'id_employee', 'id_rates', 'sum_exchange'))
+
+        query = ''
+        for i in range(COUNT_RK):
+            birth = fake.date_of_birth(minimum_age=0, maximum_age=2000)
+            vals = f"{i}, '{random.randint(0, COUNT_RK - 1)}', {random.randint(0, COUNT_RK - 1)}, {random.randint(0, 10000)}"
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+        conn.commit()
+    conn.close()
+
+op_exchange_fill()
+
+def types_currencies_fill():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        table_name = "rk.types_currencies"
+        column_names = ', '.join(('id_tc', 'currency'))
+
+        query = ''
+        for i in range(COUNT_RK):
+            vals = f"{i}, '{fake.word()}'"
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+        conn.commit()
+    conn.close()
+
+types_currencies_fill()
+
+def currencies_rates_fill():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        table_name = "rk.currencies_rates"
+        column_names = ', '.join(('id_tc', 'id_rates'))
+
+        query = ''
+        for i in range(COUNT_RK):
+            vals = f"'{random.randint(0, COUNT_RK - 1)}', '{random.randint(0, COUNT_RK - 1)}'"
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+        conn.commit()
+    conn.close()
+
+currencies_rates_fill()
 
 def author_filling():
     fake = Faker()
@@ -131,6 +230,33 @@ def history_exhibition_adding():
     conn.close()
 
 
-if __name__ == '__main__':
-    history_exhibition_adding()
+
+def author_adding():
+    conn = psycopg2.connect(dbname='rk2', host='localhost', user='postgres', password='163785303')
+    with conn.cursor() as cursor:
+        fake = Faker()
+        # INSERT INTO author (id_author, first_name, last_name, birth_year, death_year) VALUES (1, 'qwe', 'wer', 2000, 2020)
+        table_name = "author"
+        column_names = ', '.join(('id_author', 'first_name', 'last_name', 'birth_year', 'death_year'))
+
+        cursor.execute(f"SELECT count(*) from {table_name}")
+        len_table = cursor.fetchall()[0][0]
+
+        query = ''
+        for i in range(COUNT):
+            birth = fake.date_of_birth(minimum_age=0, maximum_age=2000)
+            vals = f"{len_table + i}, '{fake.first_name()}', '{fake.last_name()}', {birth.year}, NULL"
+
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
+
+        print(query)
+        cursor.execute(query)
+
+        conn.commit()
+
+    conn.close()
+
+
+# if __name__ == '__main__':
+#     author_adding()
 

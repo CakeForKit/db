@@ -64,7 +64,7 @@ begin
     drop table if exists cnt_works;
 end; 
 $$ language plpgsql;
-select * from max_count_works();
+select id from max_count_works();
 
 drop function if exists max_count_works;
 

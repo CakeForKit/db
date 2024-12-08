@@ -22,7 +22,7 @@ returns int as $$
 $$ language plpython3u;
 select century_of_creation(0) as century;
 
-select id_artwork, year_create from artwork;
+select id_artwork, year_create, century_of_creation(id_artwork) as century from artwork;
 
 
 
