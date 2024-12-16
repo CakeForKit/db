@@ -67,7 +67,7 @@ select * from public.author_new;
 -- 3. Создать таблицу, в которой будет атрибут(-ы) с типом JSON, или
 -- добавить атрибут с типом JSON к уже существующей таблице. 
 -- Заполнить атрибут правдоподобными данными с помощью команд INSERT или UPDATE.
-drop table if exists public.tmp_arwork;
+  
 
 create table if not exists public.tmp_arwork (
     id serial not null,

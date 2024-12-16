@@ -1,0 +1,8002 @@
+[
+    {
+        "id_artwork": 0,
+        "name": "same",
+        "style": "some",
+        "format": "material",
+        "year_create": 2009,
+        "id_author": 280
+    },
+    {
+        "id_artwork": 1,
+        "name": "special",
+        "style": "maybe",
+        "format": "president",
+        "year_create": 1973,
+        "id_author": 263
+    },
+    {
+        "id_artwork": 2,
+        "name": "and",
+        "style": "before",
+        "format": "special",
+        "year_create": 2008,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 3,
+        "name": "available",
+        "style": "me",
+        "format": "score",
+        "year_create": 1973,
+        "id_author": 545
+    },
+    {
+        "id_artwork": 4,
+        "name": "run",
+        "style": "realize",
+        "format": "finally",
+        "year_create": 2018,
+        "id_author": 925
+    },
+    {
+        "id_artwork": 5,
+        "name": "court",
+        "style": "drop",
+        "format": "receive",
+        "year_create": 1986,
+        "id_author": 739
+    },
+    {
+        "id_artwork": 6,
+        "name": "as",
+        "style": "product",
+        "format": "move",
+        "year_create": 1988,
+        "id_author": 931
+    },
+    {
+        "id_artwork": 7,
+        "name": "hot",
+        "style": "everything",
+        "format": "water",
+        "year_create": 2005,
+        "id_author": 594
+    },
+    {
+        "id_artwork": 8,
+        "name": "middle",
+        "style": "bag",
+        "format": "she",
+        "year_create": 2023,
+        "id_author": 358
+    },
+    {
+        "id_artwork": 9,
+        "name": "realize",
+        "style": "attack",
+        "format": "edge",
+        "year_create": 1985,
+        "id_author": 112
+    },
+    {
+        "id_artwork": 10,
+        "name": "special",
+        "style": "others",
+        "format": "church",
+        "year_create": 1989,
+        "id_author": 962
+    },
+    {
+        "id_artwork": 11,
+        "name": "reach",
+        "style": "human",
+        "format": "control",
+        "year_create": 1999,
+        "id_author": 382
+    },
+    {
+        "id_artwork": 12,
+        "name": "then",
+        "style": "side",
+        "format": "poor",
+        "year_create": 1978,
+        "id_author": 438
+    },
+    {
+        "id_artwork": 13,
+        "name": "research",
+        "style": "outside",
+        "format": "most",
+        "year_create": 2023,
+        "id_author": 697
+    },
+    {
+        "id_artwork": 14,
+        "name": "make",
+        "style": "yes",
+        "format": "collection",
+        "year_create": 1982,
+        "id_author": 408
+    },
+    {
+        "id_artwork": 15,
+        "name": "team",
+        "style": "meet",
+        "format": "item",
+        "year_create": 1995,
+        "id_author": 228
+    },
+    {
+        "id_artwork": 16,
+        "name": "someone",
+        "style": "visit",
+        "format": "list",
+        "year_create": 1973,
+        "id_author": 785
+    },
+    {
+        "id_artwork": 17,
+        "name": "able",
+        "style": "professor",
+        "format": "chance",
+        "year_create": 2022,
+        "id_author": 209
+    },
+    {
+        "id_artwork": 18,
+        "name": "benefit",
+        "style": "environmental",
+        "format": "result",
+        "year_create": 1990,
+        "id_author": 291
+    },
+    {
+        "id_artwork": 19,
+        "name": "gun",
+        "style": "even",
+        "format": "difficult",
+        "year_create": 1972,
+        "id_author": 802
+    },
+    {
+        "id_artwork": 20,
+        "name": "vote",
+        "style": "degree",
+        "format": "bring",
+        "year_create": 1987,
+        "id_author": 707
+    },
+    {
+        "id_artwork": 21,
+        "name": "treat",
+        "style": "instead",
+        "format": "space",
+        "year_create": 2014,
+        "id_author": 431
+    },
+    {
+        "id_artwork": 22,
+        "name": "find",
+        "style": "fire",
+        "format": "like",
+        "year_create": 2013,
+        "id_author": 530
+    },
+    {
+        "id_artwork": 23,
+        "name": "little",
+        "style": "image",
+        "format": "let",
+        "year_create": 1984,
+        "id_author": 238
+    },
+    {
+        "id_artwork": 24,
+        "name": "writer",
+        "style": "thousand",
+        "format": "break",
+        "year_create": 1996,
+        "id_author": 668
+    },
+    {
+        "id_artwork": 25,
+        "name": "attack",
+        "style": "assume",
+        "format": "voice",
+        "year_create": 2002,
+        "id_author": 887
+    },
+    {
+        "id_artwork": 26,
+        "name": "continue",
+        "style": "learn",
+        "format": "radio",
+        "year_create": 2004,
+        "id_author": 847
+    },
+    {
+        "id_artwork": 27,
+        "name": "fund",
+        "style": "result",
+        "format": "someone",
+        "year_create": 1999,
+        "id_author": 591
+    },
+    {
+        "id_artwork": 28,
+        "name": "kid",
+        "style": "government",
+        "format": "into",
+        "year_create": 2007,
+        "id_author": 514
+    },
+    {
+        "id_artwork": 29,
+        "name": "past",
+        "style": "class",
+        "format": "test",
+        "year_create": 1991,
+        "id_author": 106
+    },
+    {
+        "id_artwork": 30,
+        "name": "reveal",
+        "style": "news",
+        "format": "only",
+        "year_create": 2000,
+        "id_author": 719
+    },
+    {
+        "id_artwork": 31,
+        "name": "whose",
+        "style": "goal",
+        "format": "begin",
+        "year_create": 2017,
+        "id_author": 938
+    },
+    {
+        "id_artwork": 32,
+        "name": "film",
+        "style": "recently",
+        "format": "apply",
+        "year_create": 1990,
+        "id_author": 288
+    },
+    {
+        "id_artwork": 33,
+        "name": "program",
+        "style": "according",
+        "format": "happen",
+        "year_create": 2003,
+        "id_author": 485
+    },
+    {
+        "id_artwork": 34,
+        "name": "best",
+        "style": "director",
+        "format": "rather",
+        "year_create": 1996,
+        "id_author": 887
+    },
+    {
+        "id_artwork": 35,
+        "name": "month",
+        "style": "report",
+        "format": "guess",
+        "year_create": 2024,
+        "id_author": 217
+    },
+    {
+        "id_artwork": 36,
+        "name": "behavior",
+        "style": "cover",
+        "format": "ball",
+        "year_create": 1982,
+        "id_author": 589
+    },
+    {
+        "id_artwork": 37,
+        "name": "respond",
+        "style": "cold",
+        "format": "leader",
+        "year_create": 1976,
+        "id_author": 552
+    },
+    {
+        "id_artwork": 38,
+        "name": "remember",
+        "style": "charge",
+        "format": "civil",
+        "year_create": 1987,
+        "id_author": 999
+    },
+    {
+        "id_artwork": 39,
+        "name": "star",
+        "style": "individual",
+        "format": "candidate",
+        "year_create": 1993,
+        "id_author": 288
+    },
+    {
+        "id_artwork": 40,
+        "name": "man",
+        "style": "whom",
+        "format": "mouth",
+        "year_create": 1990,
+        "id_author": 447
+    },
+    {
+        "id_artwork": 41,
+        "name": "treat",
+        "style": "beyond",
+        "format": "mission",
+        "year_create": 1982,
+        "id_author": 644
+    },
+    {
+        "id_artwork": 42,
+        "name": "American",
+        "style": "role",
+        "format": "maintain",
+        "year_create": 1975,
+        "id_author": 883
+    },
+    {
+        "id_artwork": 43,
+        "name": "good",
+        "style": "cold",
+        "format": "effect",
+        "year_create": 2012,
+        "id_author": 160
+    },
+    {
+        "id_artwork": 44,
+        "name": "stuff",
+        "style": "my",
+        "format": "skill",
+        "year_create": 2006,
+        "id_author": 826
+    },
+    {
+        "id_artwork": 45,
+        "name": "act",
+        "style": "mouth",
+        "format": "statement",
+        "year_create": 2013,
+        "id_author": 267
+    },
+    {
+        "id_artwork": 46,
+        "name": "century",
+        "style": "get",
+        "format": "middle",
+        "year_create": 1974,
+        "id_author": 700
+    },
+    {
+        "id_artwork": 47,
+        "name": "scene",
+        "style": "them",
+        "format": "eye",
+        "year_create": 2021,
+        "id_author": 310
+    },
+    {
+        "id_artwork": 48,
+        "name": "measure",
+        "style": "gun",
+        "format": "message",
+        "year_create": 1984,
+        "id_author": 836
+    },
+    {
+        "id_artwork": 49,
+        "name": "body",
+        "style": "because",
+        "format": "poor",
+        "year_create": 1981,
+        "id_author": 939
+    },
+    {
+        "id_artwork": 50,
+        "name": "opportunity",
+        "style": "agent",
+        "format": "where",
+        "year_create": 1970,
+        "id_author": 235
+    },
+    {
+        "id_artwork": 51,
+        "name": "record",
+        "style": "recognize",
+        "format": "agency",
+        "year_create": 2001,
+        "id_author": 185
+    },
+    {
+        "id_artwork": 52,
+        "name": "piece",
+        "style": "follow",
+        "format": "develop",
+        "year_create": 1999,
+        "id_author": 579
+    },
+    {
+        "id_artwork": 53,
+        "name": "during",
+        "style": "stand",
+        "format": "conference",
+        "year_create": 2013,
+        "id_author": 679
+    },
+    {
+        "id_artwork": 54,
+        "name": "you",
+        "style": "knowledge",
+        "format": "southern",
+        "year_create": 1975,
+        "id_author": 728
+    },
+    {
+        "id_artwork": 55,
+        "name": "anything",
+        "style": "shoulder",
+        "format": "whole",
+        "year_create": 2021,
+        "id_author": 267
+    },
+    {
+        "id_artwork": 56,
+        "name": "food",
+        "style": "build",
+        "format": "such",
+        "year_create": 1977,
+        "id_author": 810
+    },
+    {
+        "id_artwork": 57,
+        "name": "head",
+        "style": "popular",
+        "format": "check",
+        "year_create": 1993,
+        "id_author": 424
+    },
+    {
+        "id_artwork": 58,
+        "name": "third",
+        "style": "seat",
+        "format": "knowledge",
+        "year_create": 1997,
+        "id_author": 218
+    },
+    {
+        "id_artwork": 59,
+        "name": "order",
+        "style": "let",
+        "format": "energy",
+        "year_create": 1980,
+        "id_author": 895
+    },
+    {
+        "id_artwork": 60,
+        "name": "their",
+        "style": "charge",
+        "format": "inside",
+        "year_create": 2005,
+        "id_author": 114
+    },
+    {
+        "id_artwork": 61,
+        "name": "later",
+        "style": "too",
+        "format": "especially",
+        "year_create": 2005,
+        "id_author": 482
+    },
+    {
+        "id_artwork": 62,
+        "name": "my",
+        "style": "particularly",
+        "format": "pretty",
+        "year_create": 1994,
+        "id_author": 528
+    },
+    {
+        "id_artwork": 63,
+        "name": "protect",
+        "style": "picture",
+        "format": "citizen",
+        "year_create": 1998,
+        "id_author": 92
+    },
+    {
+        "id_artwork": 64,
+        "name": "politics",
+        "style": "realize",
+        "format": "course",
+        "year_create": 1985,
+        "id_author": 817
+    },
+    {
+        "id_artwork": 65,
+        "name": "quickly",
+        "style": "occur",
+        "format": "fall",
+        "year_create": 1977,
+        "id_author": 478
+    },
+    {
+        "id_artwork": 66,
+        "name": "year",
+        "style": "north",
+        "format": "north",
+        "year_create": 1982,
+        "id_author": 598
+    },
+    {
+        "id_artwork": 67,
+        "name": "international",
+        "style": "appear",
+        "format": "hair",
+        "year_create": 2003,
+        "id_author": 61
+    },
+    {
+        "id_artwork": 68,
+        "name": "kitchen",
+        "style": "expert",
+        "format": "firm",
+        "year_create": 1997,
+        "id_author": 615
+    },
+    {
+        "id_artwork": 69,
+        "name": "fast",
+        "style": "accept",
+        "format": "eight",
+        "year_create": 2015,
+        "id_author": 215
+    },
+    {
+        "id_artwork": 70,
+        "name": "on",
+        "style": "to",
+        "format": "career",
+        "year_create": 1991,
+        "id_author": 177
+    },
+    {
+        "id_artwork": 71,
+        "name": "attack",
+        "style": "situation",
+        "format": "around",
+        "year_create": 2021,
+        "id_author": 403
+    },
+    {
+        "id_artwork": 72,
+        "name": "big",
+        "style": "office",
+        "format": "debate",
+        "year_create": 1971,
+        "id_author": 549
+    },
+    {
+        "id_artwork": 73,
+        "name": "attorney",
+        "style": "matter",
+        "format": "road",
+        "year_create": 2015,
+        "id_author": 862
+    },
+    {
+        "id_artwork": 74,
+        "name": "Mr",
+        "style": "save",
+        "format": "magazine",
+        "year_create": 2002,
+        "id_author": 753
+    },
+    {
+        "id_artwork": 75,
+        "name": "range",
+        "style": "federal",
+        "format": "remain",
+        "year_create": 2009,
+        "id_author": 26
+    },
+    {
+        "id_artwork": 76,
+        "name": "thank",
+        "style": "suffer",
+        "format": "not",
+        "year_create": 1998,
+        "id_author": 411
+    },
+    {
+        "id_artwork": 77,
+        "name": "machine",
+        "style": "security",
+        "format": "oil",
+        "year_create": 2022,
+        "id_author": 850
+    },
+    {
+        "id_artwork": 78,
+        "name": "throughout",
+        "style": "fine",
+        "format": "and",
+        "year_create": 1994,
+        "id_author": 994
+    },
+    {
+        "id_artwork": 79,
+        "name": "win",
+        "style": "practice",
+        "format": "office",
+        "year_create": 1978,
+        "id_author": 866
+    },
+    {
+        "id_artwork": 80,
+        "name": "off",
+        "style": "only",
+        "format": "stage",
+        "year_create": 1977,
+        "id_author": 963
+    },
+    {
+        "id_artwork": 81,
+        "name": "participant",
+        "style": "sign",
+        "format": "another",
+        "year_create": 1970,
+        "id_author": 269
+    },
+    {
+        "id_artwork": 82,
+        "name": "go",
+        "style": "laugh",
+        "format": "information",
+        "year_create": 1975,
+        "id_author": 872
+    },
+    {
+        "id_artwork": 83,
+        "name": "find",
+        "style": "range",
+        "format": "ten",
+        "year_create": 2010,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 84,
+        "name": "just",
+        "style": "best",
+        "format": "major",
+        "year_create": 2014,
+        "id_author": 5
+    },
+    {
+        "id_artwork": 85,
+        "name": "yes",
+        "style": "entire",
+        "format": "easy",
+        "year_create": 1974,
+        "id_author": 153
+    },
+    {
+        "id_artwork": 86,
+        "name": "reason",
+        "style": "father",
+        "format": "form",
+        "year_create": 1990,
+        "id_author": 932
+    },
+    {
+        "id_artwork": 87,
+        "name": "remember",
+        "style": "thing",
+        "format": "southern",
+        "year_create": 1981,
+        "id_author": 562
+    },
+    {
+        "id_artwork": 88,
+        "name": "reveal",
+        "style": "glass",
+        "format": "woman",
+        "year_create": 1989,
+        "id_author": 432
+    },
+    {
+        "id_artwork": 89,
+        "name": "make",
+        "style": "everyone",
+        "format": "road",
+        "year_create": 1982,
+        "id_author": 860
+    },
+    {
+        "id_artwork": 90,
+        "name": "south",
+        "style": "thing",
+        "format": "wish",
+        "year_create": 2020,
+        "id_author": 224
+    },
+    {
+        "id_artwork": 91,
+        "name": "take",
+        "style": "sit",
+        "format": "possible",
+        "year_create": 1970,
+        "id_author": 75
+    },
+    {
+        "id_artwork": 92,
+        "name": "develop",
+        "style": "manager",
+        "format": "dog",
+        "year_create": 1989,
+        "id_author": 422
+    },
+    {
+        "id_artwork": 93,
+        "name": "last",
+        "style": "now",
+        "format": "build",
+        "year_create": 2020,
+        "id_author": 156
+    },
+    {
+        "id_artwork": 94,
+        "name": "write",
+        "style": "explain",
+        "format": "democratic",
+        "year_create": 2015,
+        "id_author": 349
+    },
+    {
+        "id_artwork": 95,
+        "name": "remain",
+        "style": "discover",
+        "format": "prevent",
+        "year_create": 2012,
+        "id_author": 847
+    },
+    {
+        "id_artwork": 96,
+        "name": "down",
+        "style": "foot",
+        "format": "south",
+        "year_create": 2003,
+        "id_author": 295
+    },
+    {
+        "id_artwork": 97,
+        "name": "continue",
+        "style": "approach",
+        "format": "make",
+        "year_create": 2013,
+        "id_author": 659
+    },
+    {
+        "id_artwork": 98,
+        "name": "better",
+        "style": "fire",
+        "format": "huge",
+        "year_create": 1988,
+        "id_author": 838
+    },
+    {
+        "id_artwork": 99,
+        "name": "adult",
+        "style": "store",
+        "format": "stock",
+        "year_create": 1990,
+        "id_author": 582
+    },
+    {
+        "id_artwork": 100,
+        "name": "market",
+        "style": "cost",
+        "format": "maintain",
+        "year_create": 2020,
+        "id_author": 147
+    },
+    {
+        "id_artwork": 101,
+        "name": "son",
+        "style": "discover",
+        "format": "check",
+        "year_create": 2012,
+        "id_author": 498
+    },
+    {
+        "id_artwork": 102,
+        "name": "forget",
+        "style": "interesting",
+        "format": "customer",
+        "year_create": 1975,
+        "id_author": 289
+    },
+    {
+        "id_artwork": 103,
+        "name": "guess",
+        "style": "about",
+        "format": "something",
+        "year_create": 2022,
+        "id_author": 321
+    },
+    {
+        "id_artwork": 104,
+        "name": "movement",
+        "style": "keep",
+        "format": "buy",
+        "year_create": 1997,
+        "id_author": 169
+    },
+    {
+        "id_artwork": 105,
+        "name": "first",
+        "style": "heart",
+        "format": "from",
+        "year_create": 1988,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 106,
+        "name": "government",
+        "style": "light",
+        "format": "ever",
+        "year_create": 2004,
+        "id_author": 344
+    },
+    {
+        "id_artwork": 107,
+        "name": "box",
+        "style": "table",
+        "format": "example",
+        "year_create": 2010,
+        "id_author": 824
+    },
+    {
+        "id_artwork": 108,
+        "name": "difference",
+        "style": "trade",
+        "format": "describe",
+        "year_create": 1989,
+        "id_author": 210
+    },
+    {
+        "id_artwork": 109,
+        "name": "practice",
+        "style": "experience",
+        "format": "already",
+        "year_create": 2007,
+        "id_author": 948
+    },
+    {
+        "id_artwork": 110,
+        "name": "read",
+        "style": "property",
+        "format": "black",
+        "year_create": 1974,
+        "id_author": 450
+    },
+    {
+        "id_artwork": 111,
+        "name": "south",
+        "style": "family",
+        "format": "campaign",
+        "year_create": 2016,
+        "id_author": 379
+    },
+    {
+        "id_artwork": 112,
+        "name": "car",
+        "style": "late",
+        "format": "cold",
+        "year_create": 1985,
+        "id_author": 21
+    },
+    {
+        "id_artwork": 113,
+        "name": "nice",
+        "style": "whom",
+        "format": "somebody",
+        "year_create": 1978,
+        "id_author": 769
+    },
+    {
+        "id_artwork": 114,
+        "name": "woman",
+        "style": "need",
+        "format": "we",
+        "year_create": 2023,
+        "id_author": 504
+    },
+    {
+        "id_artwork": 115,
+        "name": "itself",
+        "style": "PM",
+        "format": "country",
+        "year_create": 2010,
+        "id_author": 806
+    },
+    {
+        "id_artwork": 116,
+        "name": "laugh",
+        "style": "heart",
+        "format": "language",
+        "year_create": 2020,
+        "id_author": 301
+    },
+    {
+        "id_artwork": 117,
+        "name": "bit",
+        "style": "also",
+        "format": "wear",
+        "year_create": 2018,
+        "id_author": 865
+    },
+    {
+        "id_artwork": 118,
+        "name": "couple",
+        "style": "good",
+        "format": "interview",
+        "year_create": 2000,
+        "id_author": 241
+    },
+    {
+        "id_artwork": 119,
+        "name": "other",
+        "style": "eye",
+        "format": "perform",
+        "year_create": 1978,
+        "id_author": 803
+    },
+    {
+        "id_artwork": 120,
+        "name": "along",
+        "style": "drive",
+        "format": "agreement",
+        "year_create": 1989,
+        "id_author": 220
+    },
+    {
+        "id_artwork": 121,
+        "name": "around",
+        "style": "tell",
+        "format": "mission",
+        "year_create": 2002,
+        "id_author": 69
+    },
+    {
+        "id_artwork": 122,
+        "name": "or",
+        "style": "break",
+        "format": "political",
+        "year_create": 1994,
+        "id_author": 135
+    },
+    {
+        "id_artwork": 123,
+        "name": "compare",
+        "style": "from",
+        "format": "popular",
+        "year_create": 1979,
+        "id_author": 456
+    },
+    {
+        "id_artwork": 124,
+        "name": "wind",
+        "style": "less",
+        "format": "generation",
+        "year_create": 1991,
+        "id_author": 29
+    },
+    {
+        "id_artwork": 125,
+        "name": "write",
+        "style": "four",
+        "format": "house",
+        "year_create": 1970,
+        "id_author": 977
+    },
+    {
+        "id_artwork": 126,
+        "name": "option",
+        "style": "agree",
+        "format": "nor",
+        "year_create": 1970,
+        "id_author": 720
+    },
+    {
+        "id_artwork": 127,
+        "name": "source",
+        "style": "buy",
+        "format": "soon",
+        "year_create": 2014,
+        "id_author": 721
+    },
+    {
+        "id_artwork": 128,
+        "name": "American",
+        "style": "wonder",
+        "format": "effect",
+        "year_create": 1983,
+        "id_author": 771
+    },
+    {
+        "id_artwork": 129,
+        "name": "worker",
+        "style": "out",
+        "format": "author",
+        "year_create": 1978,
+        "id_author": 534
+    },
+    {
+        "id_artwork": 130,
+        "name": "I",
+        "style": "challenge",
+        "format": "age",
+        "year_create": 2017,
+        "id_author": 651
+    },
+    {
+        "id_artwork": 131,
+        "name": "country",
+        "style": "me",
+        "format": "popular",
+        "year_create": 2023,
+        "id_author": 718
+    },
+    {
+        "id_artwork": 132,
+        "name": "others",
+        "style": "various",
+        "format": "nature",
+        "year_create": 1999,
+        "id_author": 176
+    },
+    {
+        "id_artwork": 133,
+        "name": "medical",
+        "style": "cost",
+        "format": "people",
+        "year_create": 1979,
+        "id_author": 214
+    },
+    {
+        "id_artwork": 134,
+        "name": "research",
+        "style": "down",
+        "format": "indeed",
+        "year_create": 1982,
+        "id_author": 518
+    },
+    {
+        "id_artwork": 135,
+        "name": "enjoy",
+        "style": "young",
+        "format": "guess",
+        "year_create": 2009,
+        "id_author": 700
+    },
+    {
+        "id_artwork": 136,
+        "name": "democratic",
+        "style": "end",
+        "format": "guy",
+        "year_create": 2021,
+        "id_author": 261
+    },
+    {
+        "id_artwork": 137,
+        "name": "pull",
+        "style": "consumer",
+        "format": "outside",
+        "year_create": 1984,
+        "id_author": 860
+    },
+    {
+        "id_artwork": 138,
+        "name": "the",
+        "style": "term",
+        "format": "region",
+        "year_create": 1974,
+        "id_author": 844
+    },
+    {
+        "id_artwork": 139,
+        "name": "society",
+        "style": "always",
+        "format": "picture",
+        "year_create": 1974,
+        "id_author": 875
+    },
+    {
+        "id_artwork": 140,
+        "name": "provide",
+        "style": "get",
+        "format": "she",
+        "year_create": 1978,
+        "id_author": 655
+    },
+    {
+        "id_artwork": 141,
+        "name": "participant",
+        "style": "nice",
+        "format": "agreement",
+        "year_create": 1979,
+        "id_author": 47
+    },
+    {
+        "id_artwork": 142,
+        "name": "local",
+        "style": "part",
+        "format": "shoulder",
+        "year_create": 2013,
+        "id_author": 937
+    },
+    {
+        "id_artwork": 143,
+        "name": "cut",
+        "style": "film",
+        "format": "listen",
+        "year_create": 1992,
+        "id_author": 952
+    },
+    {
+        "id_artwork": 144,
+        "name": "sound",
+        "style": "product",
+        "format": "southern",
+        "year_create": 1992,
+        "id_author": 490
+    },
+    {
+        "id_artwork": 145,
+        "name": "recognize",
+        "style": "easy",
+        "format": "training",
+        "year_create": 1997,
+        "id_author": 341
+    },
+    {
+        "id_artwork": 146,
+        "name": "very",
+        "style": "pay",
+        "format": "idea",
+        "year_create": 1970,
+        "id_author": 318
+    },
+    {
+        "id_artwork": 147,
+        "name": "tonight",
+        "style": "argue",
+        "format": "laugh",
+        "year_create": 1981,
+        "id_author": 228
+    },
+    {
+        "id_artwork": 148,
+        "name": "whether",
+        "style": "performance",
+        "format": "close",
+        "year_create": 1996,
+        "id_author": 971
+    },
+    {
+        "id_artwork": 149,
+        "name": "price",
+        "style": "any",
+        "format": "interview",
+        "year_create": 1987,
+        "id_author": 995
+    },
+    {
+        "id_artwork": 150,
+        "name": "four",
+        "style": "unit",
+        "format": "social",
+        "year_create": 2020,
+        "id_author": 876
+    },
+    {
+        "id_artwork": 151,
+        "name": "decision",
+        "style": "win",
+        "format": "project",
+        "year_create": 2012,
+        "id_author": 874
+    },
+    {
+        "id_artwork": 152,
+        "name": "our",
+        "style": "hour",
+        "format": "direction",
+        "year_create": 1974,
+        "id_author": 126
+    },
+    {
+        "id_artwork": 153,
+        "name": "something",
+        "style": "business",
+        "format": "both",
+        "year_create": 1998,
+        "id_author": 952
+    },
+    {
+        "id_artwork": 154,
+        "name": "public",
+        "style": "successful",
+        "format": "itself",
+        "year_create": 1991,
+        "id_author": 441
+    },
+    {
+        "id_artwork": 155,
+        "name": "cold",
+        "style": "someone",
+        "format": "southern",
+        "year_create": 1995,
+        "id_author": 591
+    },
+    {
+        "id_artwork": 156,
+        "name": "job",
+        "style": "beyond",
+        "format": "take",
+        "year_create": 2000,
+        "id_author": 457
+    },
+    {
+        "id_artwork": 157,
+        "name": "generation",
+        "style": "that",
+        "format": "she",
+        "year_create": 2024,
+        "id_author": 422
+    },
+    {
+        "id_artwork": 158,
+        "name": "ball",
+        "style": "others",
+        "format": "today",
+        "year_create": 1971,
+        "id_author": 256
+    },
+    {
+        "id_artwork": 159,
+        "name": "those",
+        "style": "western",
+        "format": "interview",
+        "year_create": 2009,
+        "id_author": 297
+    },
+    {
+        "id_artwork": 160,
+        "name": "top",
+        "style": "hit",
+        "format": "far",
+        "year_create": 2001,
+        "id_author": 747
+    },
+    {
+        "id_artwork": 161,
+        "name": "blood",
+        "style": "listen",
+        "format": "why",
+        "year_create": 2008,
+        "id_author": 981
+    },
+    {
+        "id_artwork": 162,
+        "name": "work",
+        "style": "score",
+        "format": "even",
+        "year_create": 2009,
+        "id_author": 638
+    },
+    {
+        "id_artwork": 163,
+        "name": "best",
+        "style": "response",
+        "format": "sure",
+        "year_create": 1976,
+        "id_author": 173
+    },
+    {
+        "id_artwork": 164,
+        "name": "they",
+        "style": "level",
+        "format": "picture",
+        "year_create": 1995,
+        "id_author": 178
+    },
+    {
+        "id_artwork": 165,
+        "name": "off",
+        "style": "ability",
+        "format": "item",
+        "year_create": 1981,
+        "id_author": 790
+    },
+    {
+        "id_artwork": 166,
+        "name": "say",
+        "style": "beautiful",
+        "format": "for",
+        "year_create": 1976,
+        "id_author": 60
+    },
+    {
+        "id_artwork": 167,
+        "name": "together",
+        "style": "share",
+        "format": "important",
+        "year_create": 1988,
+        "id_author": 207
+    },
+    {
+        "id_artwork": 168,
+        "name": "paper",
+        "style": "table",
+        "format": "film",
+        "year_create": 1972,
+        "id_author": 311
+    },
+    {
+        "id_artwork": 169,
+        "name": "nor",
+        "style": "base",
+        "format": "yet",
+        "year_create": 2001,
+        "id_author": 339
+    },
+    {
+        "id_artwork": 170,
+        "name": "social",
+        "style": "part",
+        "format": "part",
+        "year_create": 2013,
+        "id_author": 621
+    },
+    {
+        "id_artwork": 171,
+        "name": "hour",
+        "style": "wish",
+        "format": "form",
+        "year_create": 1989,
+        "id_author": 138
+    },
+    {
+        "id_artwork": 172,
+        "name": "ok",
+        "style": "population",
+        "format": "later",
+        "year_create": 2014,
+        "id_author": 401
+    },
+    {
+        "id_artwork": 173,
+        "name": "it",
+        "style": "by",
+        "format": "thing",
+        "year_create": 1989,
+        "id_author": 942
+    },
+    {
+        "id_artwork": 174,
+        "name": "yet",
+        "style": "tree",
+        "format": "argue",
+        "year_create": 2017,
+        "id_author": 658
+    },
+    {
+        "id_artwork": 175,
+        "name": "me",
+        "style": "price",
+        "format": "color",
+        "year_create": 2010,
+        "id_author": 112
+    },
+    {
+        "id_artwork": 176,
+        "name": "population",
+        "style": "think",
+        "format": "wait",
+        "year_create": 1974,
+        "id_author": 871
+    },
+    {
+        "id_artwork": 177,
+        "name": "information",
+        "style": "good",
+        "format": "car",
+        "year_create": 1988,
+        "id_author": 612
+    },
+    {
+        "id_artwork": 178,
+        "name": "measure",
+        "style": "customer",
+        "format": "child",
+        "year_create": 1990,
+        "id_author": 8
+    },
+    {
+        "id_artwork": 179,
+        "name": "without",
+        "style": "star",
+        "format": "marriage",
+        "year_create": 2011,
+        "id_author": 685
+    },
+    {
+        "id_artwork": 180,
+        "name": "their",
+        "style": "main",
+        "format": "term",
+        "year_create": 1980,
+        "id_author": 297
+    },
+    {
+        "id_artwork": 181,
+        "name": "newspaper",
+        "style": "among",
+        "format": "top",
+        "year_create": 2013,
+        "id_author": 255
+    },
+    {
+        "id_artwork": 182,
+        "name": "control",
+        "style": "me",
+        "format": "hair",
+        "year_create": 1985,
+        "id_author": 832
+    },
+    {
+        "id_artwork": 183,
+        "name": "concern",
+        "style": "treatment",
+        "format": "line",
+        "year_create": 2001,
+        "id_author": 348
+    },
+    {
+        "id_artwork": 184,
+        "name": "bar",
+        "style": "experience",
+        "format": "tend",
+        "year_create": 1981,
+        "id_author": 138
+    },
+    {
+        "id_artwork": 185,
+        "name": "to",
+        "style": "director",
+        "format": "feeling",
+        "year_create": 1992,
+        "id_author": 919
+    },
+    {
+        "id_artwork": 186,
+        "name": "policy",
+        "style": "action",
+        "format": "set",
+        "year_create": 1997,
+        "id_author": 285
+    },
+    {
+        "id_artwork": 187,
+        "name": "design",
+        "style": "become",
+        "format": "form",
+        "year_create": 1986,
+        "id_author": 940
+    },
+    {
+        "id_artwork": 188,
+        "name": "structure",
+        "style": "keep",
+        "format": "might",
+        "year_create": 1981,
+        "id_author": 836
+    },
+    {
+        "id_artwork": 189,
+        "name": "pressure",
+        "style": "able",
+        "format": "billion",
+        "year_create": 1974,
+        "id_author": 280
+    },
+    {
+        "id_artwork": 190,
+        "name": "thus",
+        "style": "now",
+        "format": "rock",
+        "year_create": 2015,
+        "id_author": 868
+    },
+    {
+        "id_artwork": 191,
+        "name": "quickly",
+        "style": "street",
+        "format": "individual",
+        "year_create": 2022,
+        "id_author": 437
+    },
+    {
+        "id_artwork": 192,
+        "name": "trip",
+        "style": "responsibility",
+        "format": "power",
+        "year_create": 1988,
+        "id_author": 36
+    },
+    {
+        "id_artwork": 193,
+        "name": "rock",
+        "style": "education",
+        "format": "dream",
+        "year_create": 1994,
+        "id_author": 745
+    },
+    {
+        "id_artwork": 194,
+        "name": "activity",
+        "style": "while",
+        "format": "if",
+        "year_create": 1985,
+        "id_author": 911
+    },
+    {
+        "id_artwork": 195,
+        "name": "itself",
+        "style": "those",
+        "format": "speech",
+        "year_create": 2023,
+        "id_author": 171
+    },
+    {
+        "id_artwork": 196,
+        "name": "identify",
+        "style": "part",
+        "format": "budget",
+        "year_create": 2009,
+        "id_author": 649
+    },
+    {
+        "id_artwork": 197,
+        "name": "tough",
+        "style": "magazine",
+        "format": "might",
+        "year_create": 2005,
+        "id_author": 185
+    },
+    {
+        "id_artwork": 198,
+        "name": "sense",
+        "style": "their",
+        "format": "write",
+        "year_create": 2004,
+        "id_author": 47
+    },
+    {
+        "id_artwork": 199,
+        "name": "involve",
+        "style": "list",
+        "format": "marriage",
+        "year_create": 1996,
+        "id_author": 30
+    },
+    {
+        "id_artwork": 200,
+        "name": "live",
+        "style": "your",
+        "format": "near",
+        "year_create": 2014,
+        "id_author": 252
+    },
+    {
+        "id_artwork": 201,
+        "name": "throughout",
+        "style": "really",
+        "format": "discuss",
+        "year_create": 1999,
+        "id_author": 548
+    },
+    {
+        "id_artwork": 202,
+        "name": "nothing",
+        "style": "seek",
+        "format": "study",
+        "year_create": 2015,
+        "id_author": 213
+    },
+    {
+        "id_artwork": 203,
+        "name": "still",
+        "style": "against",
+        "format": "would",
+        "year_create": 1995,
+        "id_author": 802
+    },
+    {
+        "id_artwork": 204,
+        "name": "including",
+        "style": "small",
+        "format": "be",
+        "year_create": 1980,
+        "id_author": 164
+    },
+    {
+        "id_artwork": 205,
+        "name": "go",
+        "style": "detail",
+        "format": "enjoy",
+        "year_create": 1970,
+        "id_author": 110
+    },
+    {
+        "id_artwork": 206,
+        "name": "help",
+        "style": "finally",
+        "format": "party",
+        "year_create": 1988,
+        "id_author": 821
+    },
+    {
+        "id_artwork": 207,
+        "name": "toward",
+        "style": "performance",
+        "format": "condition",
+        "year_create": 2016,
+        "id_author": 686
+    },
+    {
+        "id_artwork": 208,
+        "name": "mean",
+        "style": "wind",
+        "format": "nearly",
+        "year_create": 2004,
+        "id_author": 208
+    },
+    {
+        "id_artwork": 209,
+        "name": "fact",
+        "style": "professional",
+        "format": "such",
+        "year_create": 1991,
+        "id_author": 54
+    },
+    {
+        "id_artwork": 210,
+        "name": "part",
+        "style": "usually",
+        "format": "need",
+        "year_create": 2017,
+        "id_author": 835
+    },
+    {
+        "id_artwork": 211,
+        "name": "hot",
+        "style": "number",
+        "format": "travel",
+        "year_create": 1998,
+        "id_author": 396
+    },
+    {
+        "id_artwork": 212,
+        "name": "into",
+        "style": "democratic",
+        "format": "large",
+        "year_create": 1974,
+        "id_author": 927
+    },
+    {
+        "id_artwork": 213,
+        "name": "human",
+        "style": "political",
+        "format": "third",
+        "year_create": 1986,
+        "id_author": 453
+    },
+    {
+        "id_artwork": 214,
+        "name": "them",
+        "style": "consumer",
+        "format": "civil",
+        "year_create": 1998,
+        "id_author": 988
+    },
+    {
+        "id_artwork": 215,
+        "name": "decide",
+        "style": "stop",
+        "format": "start",
+        "year_create": 2020,
+        "id_author": 755
+    },
+    {
+        "id_artwork": 216,
+        "name": "executive",
+        "style": "house",
+        "format": "occur",
+        "year_create": 2019,
+        "id_author": 260
+    },
+    {
+        "id_artwork": 217,
+        "name": "force",
+        "style": "least",
+        "format": "rate",
+        "year_create": 2019,
+        "id_author": 121
+    },
+    {
+        "id_artwork": 218,
+        "name": "left",
+        "style": "event",
+        "format": "board",
+        "year_create": 1994,
+        "id_author": 996
+    },
+    {
+        "id_artwork": 219,
+        "name": "exactly",
+        "style": "stage",
+        "format": "side",
+        "year_create": 1983,
+        "id_author": 868
+    },
+    {
+        "id_artwork": 220,
+        "name": "design",
+        "style": "along",
+        "format": "capital",
+        "year_create": 1991,
+        "id_author": 646
+    },
+    {
+        "id_artwork": 221,
+        "name": "realize",
+        "style": "store",
+        "format": "born",
+        "year_create": 1998,
+        "id_author": 397
+    },
+    {
+        "id_artwork": 222,
+        "name": "interesting",
+        "style": "official",
+        "format": "account",
+        "year_create": 1995,
+        "id_author": 684
+    },
+    {
+        "id_artwork": 223,
+        "name": "enjoy",
+        "style": "sit",
+        "format": "member",
+        "year_create": 2017,
+        "id_author": 264
+    },
+    {
+        "id_artwork": 224,
+        "name": "dinner",
+        "style": "imagine",
+        "format": "before",
+        "year_create": 1982,
+        "id_author": 918
+    },
+    {
+        "id_artwork": 225,
+        "name": "create",
+        "style": "teacher",
+        "format": "what",
+        "year_create": 2009,
+        "id_author": 98
+    },
+    {
+        "id_artwork": 226,
+        "name": "own",
+        "style": "million",
+        "format": "under",
+        "year_create": 1972,
+        "id_author": 348
+    },
+    {
+        "id_artwork": 227,
+        "name": "early",
+        "style": "instead",
+        "format": "arm",
+        "year_create": 2018,
+        "id_author": 127
+    },
+    {
+        "id_artwork": 228,
+        "name": "yeah",
+        "style": "hope",
+        "format": "sing",
+        "year_create": 2012,
+        "id_author": 665
+    },
+    {
+        "id_artwork": 229,
+        "name": "such",
+        "style": "its",
+        "format": "smile",
+        "year_create": 1985,
+        "id_author": 156
+    },
+    {
+        "id_artwork": 230,
+        "name": "common",
+        "style": "as",
+        "format": "program",
+        "year_create": 1973,
+        "id_author": 222
+    },
+    {
+        "id_artwork": 231,
+        "name": "political",
+        "style": "condition",
+        "format": "begin",
+        "year_create": 1974,
+        "id_author": 773
+    },
+    {
+        "id_artwork": 232,
+        "name": "dream",
+        "style": "magazine",
+        "format": "eight",
+        "year_create": 1988,
+        "id_author": 680
+    },
+    {
+        "id_artwork": 233,
+        "name": "player",
+        "style": "all",
+        "format": "first",
+        "year_create": 2012,
+        "id_author": 348
+    },
+    {
+        "id_artwork": 234,
+        "name": "really",
+        "style": "civil",
+        "format": "left",
+        "year_create": 2016,
+        "id_author": 919
+    },
+    {
+        "id_artwork": 235,
+        "name": "draw",
+        "style": "million",
+        "format": "wonder",
+        "year_create": 2007,
+        "id_author": 852
+    },
+    {
+        "id_artwork": 236,
+        "name": "need",
+        "style": "three",
+        "format": "show",
+        "year_create": 2020,
+        "id_author": 869
+    },
+    {
+        "id_artwork": 237,
+        "name": "tell",
+        "style": "director",
+        "format": "language",
+        "year_create": 1994,
+        "id_author": 135
+    },
+    {
+        "id_artwork": 238,
+        "name": "throw",
+        "style": "standard",
+        "format": "still",
+        "year_create": 1999,
+        "id_author": 522
+    },
+    {
+        "id_artwork": 239,
+        "name": "manager",
+        "style": "create",
+        "format": "tell",
+        "year_create": 1977,
+        "id_author": 353
+    },
+    {
+        "id_artwork": 240,
+        "name": "day",
+        "style": "computer",
+        "format": "itself",
+        "year_create": 2016,
+        "id_author": 441
+    },
+    {
+        "id_artwork": 241,
+        "name": "listen",
+        "style": "final",
+        "format": "Mrs",
+        "year_create": 1985,
+        "id_author": 244
+    },
+    {
+        "id_artwork": 242,
+        "name": "discuss",
+        "style": "whatever",
+        "format": "day",
+        "year_create": 2010,
+        "id_author": 259
+    },
+    {
+        "id_artwork": 243,
+        "name": "board",
+        "style": "water",
+        "format": "itself",
+        "year_create": 1998,
+        "id_author": 408
+    },
+    {
+        "id_artwork": 244,
+        "name": "visit",
+        "style": "plant",
+        "format": "ground",
+        "year_create": 1980,
+        "id_author": 139
+    },
+    {
+        "id_artwork": 245,
+        "name": "green",
+        "style": "war",
+        "format": "sister",
+        "year_create": 1975,
+        "id_author": 273
+    },
+    {
+        "id_artwork": 246,
+        "name": "both",
+        "style": "image",
+        "format": "one",
+        "year_create": 1983,
+        "id_author": 897
+    },
+    {
+        "id_artwork": 247,
+        "name": "build",
+        "style": "treatment",
+        "format": "statement",
+        "year_create": 1987,
+        "id_author": 476
+    },
+    {
+        "id_artwork": 248,
+        "name": "space",
+        "style": "marriage",
+        "format": "least",
+        "year_create": 1972,
+        "id_author": 717
+    },
+    {
+        "id_artwork": 249,
+        "name": "eye",
+        "style": "voice",
+        "format": "theory",
+        "year_create": 2013,
+        "id_author": 6
+    },
+    {
+        "id_artwork": 250,
+        "name": "around",
+        "style": "second",
+        "format": "this",
+        "year_create": 1999,
+        "id_author": 76
+    },
+    {
+        "id_artwork": 251,
+        "name": "if",
+        "style": "everybody",
+        "format": "position",
+        "year_create": 2018,
+        "id_author": 71
+    },
+    {
+        "id_artwork": 252,
+        "name": "hour",
+        "style": "wind",
+        "format": "allow",
+        "year_create": 2015,
+        "id_author": 846
+    },
+    {
+        "id_artwork": 253,
+        "name": "always",
+        "style": "policy",
+        "format": "data",
+        "year_create": 1993,
+        "id_author": 60
+    },
+    {
+        "id_artwork": 254,
+        "name": "group",
+        "style": "almost",
+        "format": "perform",
+        "year_create": 1992,
+        "id_author": 170
+    },
+    {
+        "id_artwork": 255,
+        "name": "game",
+        "style": "once",
+        "format": "tree",
+        "year_create": 2000,
+        "id_author": 318
+    },
+    {
+        "id_artwork": 256,
+        "name": "identify",
+        "style": "state",
+        "format": "course",
+        "year_create": 1985,
+        "id_author": 225
+    },
+    {
+        "id_artwork": 257,
+        "name": "agent",
+        "style": "race",
+        "format": "radio",
+        "year_create": 1996,
+        "id_author": 164
+    },
+    {
+        "id_artwork": 258,
+        "name": "best",
+        "style": "end",
+        "format": "theory",
+        "year_create": 1976,
+        "id_author": 876
+    },
+    {
+        "id_artwork": 259,
+        "name": "avoid",
+        "style": "PM",
+        "format": "which",
+        "year_create": 2012,
+        "id_author": 845
+    },
+    {
+        "id_artwork": 260,
+        "name": "which",
+        "style": "production",
+        "format": "have",
+        "year_create": 1991,
+        "id_author": 857
+    },
+    {
+        "id_artwork": 261,
+        "name": "same",
+        "style": "base",
+        "format": "Congress",
+        "year_create": 1980,
+        "id_author": 252
+    },
+    {
+        "id_artwork": 262,
+        "name": "finally",
+        "style": "various",
+        "format": "tree",
+        "year_create": 1991,
+        "id_author": 196
+    },
+    {
+        "id_artwork": 263,
+        "name": "have",
+        "style": "question",
+        "format": "down",
+        "year_create": 1972,
+        "id_author": 215
+    },
+    {
+        "id_artwork": 264,
+        "name": "anything",
+        "style": "foreign",
+        "format": "the",
+        "year_create": 1978,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 265,
+        "name": "ball",
+        "style": "technology",
+        "format": "within",
+        "year_create": 1975,
+        "id_author": 345
+    },
+    {
+        "id_artwork": 266,
+        "name": "mouth",
+        "style": "star",
+        "format": "part",
+        "year_create": 2002,
+        "id_author": 164
+    },
+    {
+        "id_artwork": 267,
+        "name": "worker",
+        "style": "specific",
+        "format": "animal",
+        "year_create": 1980,
+        "id_author": 801
+    },
+    {
+        "id_artwork": 268,
+        "name": "writer",
+        "style": "claim",
+        "format": "easy",
+        "year_create": 2003,
+        "id_author": 740
+    },
+    {
+        "id_artwork": 269,
+        "name": "should",
+        "style": "question",
+        "format": "one",
+        "year_create": 2000,
+        "id_author": 295
+    },
+    {
+        "id_artwork": 270,
+        "name": "travel",
+        "style": "kind",
+        "format": "industry",
+        "year_create": 2024,
+        "id_author": 546
+    },
+    {
+        "id_artwork": 271,
+        "name": "that",
+        "style": "for",
+        "format": "radio",
+        "year_create": 2010,
+        "id_author": 136
+    },
+    {
+        "id_artwork": 272,
+        "name": "sport",
+        "style": "both",
+        "format": "actually",
+        "year_create": 1991,
+        "id_author": 836
+    },
+    {
+        "id_artwork": 273,
+        "name": "up",
+        "style": "defense",
+        "format": "officer",
+        "year_create": 2005,
+        "id_author": 4
+    },
+    {
+        "id_artwork": 274,
+        "name": "recently",
+        "style": "structure",
+        "format": "next",
+        "year_create": 1986,
+        "id_author": 928
+    },
+    {
+        "id_artwork": 275,
+        "name": "year",
+        "style": "teach",
+        "format": "base",
+        "year_create": 1989,
+        "id_author": 438
+    },
+    {
+        "id_artwork": 276,
+        "name": "public",
+        "style": "since",
+        "format": "discuss",
+        "year_create": 1980,
+        "id_author": 714
+    },
+    {
+        "id_artwork": 277,
+        "name": "yes",
+        "style": "piece",
+        "format": "he",
+        "year_create": 2017,
+        "id_author": 516
+    },
+    {
+        "id_artwork": 278,
+        "name": "artist",
+        "style": "way",
+        "format": "measure",
+        "year_create": 2003,
+        "id_author": 177
+    },
+    {
+        "id_artwork": 279,
+        "name": "present",
+        "style": "information",
+        "format": "believe",
+        "year_create": 2013,
+        "id_author": 384
+    },
+    {
+        "id_artwork": 280,
+        "name": "may",
+        "style": "if",
+        "format": "relationship",
+        "year_create": 1976,
+        "id_author": 195
+    },
+    {
+        "id_artwork": 281,
+        "name": "entire",
+        "style": "painting",
+        "format": "however",
+        "year_create": 1985,
+        "id_author": 416
+    },
+    {
+        "id_artwork": 282,
+        "name": "car",
+        "style": "nice",
+        "format": "value",
+        "year_create": 1984,
+        "id_author": 840
+    },
+    {
+        "id_artwork": 283,
+        "name": "woman",
+        "style": "success",
+        "format": "enjoy",
+        "year_create": 1970,
+        "id_author": 32
+    },
+    {
+        "id_artwork": 284,
+        "name": "of",
+        "style": "blood",
+        "format": "public",
+        "year_create": 2011,
+        "id_author": 245
+    },
+    {
+        "id_artwork": 285,
+        "name": "question",
+        "style": "goal",
+        "format": "little",
+        "year_create": 1980,
+        "id_author": 781
+    },
+    {
+        "id_artwork": 286,
+        "name": "during",
+        "style": "child",
+        "format": "feeling",
+        "year_create": 1975,
+        "id_author": 671
+    },
+    {
+        "id_artwork": 287,
+        "name": "still",
+        "style": "lose",
+        "format": "police",
+        "year_create": 1975,
+        "id_author": 850
+    },
+    {
+        "id_artwork": 288,
+        "name": "body",
+        "style": "how",
+        "format": "adult",
+        "year_create": 2006,
+        "id_author": 614
+    },
+    {
+        "id_artwork": 289,
+        "name": "me",
+        "style": "design",
+        "format": "already",
+        "year_create": 2020,
+        "id_author": 654
+    },
+    {
+        "id_artwork": 290,
+        "name": "design",
+        "style": "seat",
+        "format": "nice",
+        "year_create": 1987,
+        "id_author": 994
+    },
+    {
+        "id_artwork": 291,
+        "name": "government",
+        "style": "page",
+        "format": "least",
+        "year_create": 2003,
+        "id_author": 449
+    },
+    {
+        "id_artwork": 292,
+        "name": "product",
+        "style": "stage",
+        "format": "live",
+        "year_create": 2018,
+        "id_author": 680
+    },
+    {
+        "id_artwork": 293,
+        "name": "science",
+        "style": "project",
+        "format": "next",
+        "year_create": 1988,
+        "id_author": 617
+    },
+    {
+        "id_artwork": 294,
+        "name": "trial",
+        "style": "area",
+        "format": "name",
+        "year_create": 2011,
+        "id_author": 924
+    },
+    {
+        "id_artwork": 295,
+        "name": "mouth",
+        "style": "seem",
+        "format": "message",
+        "year_create": 2005,
+        "id_author": 491
+    },
+    {
+        "id_artwork": 296,
+        "name": "before",
+        "style": "prepare",
+        "format": "too",
+        "year_create": 1983,
+        "id_author": 23
+    },
+    {
+        "id_artwork": 297,
+        "name": "everyone",
+        "style": "exactly",
+        "format": "skill",
+        "year_create": 2023,
+        "id_author": 898
+    },
+    {
+        "id_artwork": 298,
+        "name": "because",
+        "style": "trip",
+        "format": "individual",
+        "year_create": 2012,
+        "id_author": 171
+    },
+    {
+        "id_artwork": 299,
+        "name": "group",
+        "style": "want",
+        "format": "dinner",
+        "year_create": 2014,
+        "id_author": 501
+    },
+    {
+        "id_artwork": 300,
+        "name": "report",
+        "style": "even",
+        "format": "set",
+        "year_create": 1982,
+        "id_author": 850
+    },
+    {
+        "id_artwork": 301,
+        "name": "court",
+        "style": "book",
+        "format": "open",
+        "year_create": 2014,
+        "id_author": 66
+    },
+    {
+        "id_artwork": 302,
+        "name": "official",
+        "style": "food",
+        "format": "probably",
+        "year_create": 1988,
+        "id_author": 597
+    },
+    {
+        "id_artwork": 303,
+        "name": "follow",
+        "style": "both",
+        "format": "short",
+        "year_create": 1973,
+        "id_author": 567
+    },
+    {
+        "id_artwork": 304,
+        "name": "decide",
+        "style": "memory",
+        "format": "discussion",
+        "year_create": 2003,
+        "id_author": 979
+    },
+    {
+        "id_artwork": 305,
+        "name": "international",
+        "style": "call",
+        "format": "concern",
+        "year_create": 2005,
+        "id_author": 335
+    },
+    {
+        "id_artwork": 306,
+        "name": "garden",
+        "style": "or",
+        "format": "later",
+        "year_create": 1997,
+        "id_author": 538
+    },
+    {
+        "id_artwork": 307,
+        "name": "reason",
+        "style": "democratic",
+        "format": "become",
+        "year_create": 1973,
+        "id_author": 438
+    },
+    {
+        "id_artwork": 308,
+        "name": "short",
+        "style": "reason",
+        "format": "animal",
+        "year_create": 1996,
+        "id_author": 790
+    },
+    {
+        "id_artwork": 309,
+        "name": "financial",
+        "style": "quality",
+        "format": "quickly",
+        "year_create": 2001,
+        "id_author": 558
+    },
+    {
+        "id_artwork": 310,
+        "name": "court",
+        "style": "in",
+        "format": "return",
+        "year_create": 2019,
+        "id_author": 186
+    },
+    {
+        "id_artwork": 311,
+        "name": "we",
+        "style": "this",
+        "format": "the",
+        "year_create": 2021,
+        "id_author": 534
+    },
+    {
+        "id_artwork": 312,
+        "name": "investment",
+        "style": "their",
+        "format": "town",
+        "year_create": 2019,
+        "id_author": 604
+    },
+    {
+        "id_artwork": 313,
+        "name": "imagine",
+        "style": "front",
+        "format": "interview",
+        "year_create": 1989,
+        "id_author": 603
+    },
+    {
+        "id_artwork": 314,
+        "name": "would",
+        "style": "evening",
+        "format": "investment",
+        "year_create": 1990,
+        "id_author": 918
+    },
+    {
+        "id_artwork": 315,
+        "name": "charge",
+        "style": "figure",
+        "format": "technology",
+        "year_create": 1976,
+        "id_author": 918
+    },
+    {
+        "id_artwork": 316,
+        "name": "include",
+        "style": "foot",
+        "format": "agency",
+        "year_create": 1975,
+        "id_author": 838
+    },
+    {
+        "id_artwork": 317,
+        "name": "family",
+        "style": "American",
+        "format": "avoid",
+        "year_create": 1993,
+        "id_author": 209
+    },
+    {
+        "id_artwork": 318,
+        "name": "offer",
+        "style": "ahead",
+        "format": "power",
+        "year_create": 2009,
+        "id_author": 651
+    },
+    {
+        "id_artwork": 319,
+        "name": "whatever",
+        "style": "coach",
+        "format": "leader",
+        "year_create": 2022,
+        "id_author": 687
+    },
+    {
+        "id_artwork": 320,
+        "name": "organization",
+        "style": "investment",
+        "format": "with",
+        "year_create": 1988,
+        "id_author": 422
+    },
+    {
+        "id_artwork": 321,
+        "name": "western",
+        "style": "fact",
+        "format": "get",
+        "year_create": 1992,
+        "id_author": 178
+    },
+    {
+        "id_artwork": 322,
+        "name": "protect",
+        "style": "rule",
+        "format": "race",
+        "year_create": 1999,
+        "id_author": 735
+    },
+    {
+        "id_artwork": 323,
+        "name": "focus",
+        "style": "building",
+        "format": "coach",
+        "year_create": 2001,
+        "id_author": 790
+    },
+    {
+        "id_artwork": 324,
+        "name": "your",
+        "style": "tend",
+        "format": "moment",
+        "year_create": 2002,
+        "id_author": 520
+    },
+    {
+        "id_artwork": 325,
+        "name": "move",
+        "style": "also",
+        "format": "room",
+        "year_create": 1984,
+        "id_author": 626
+    },
+    {
+        "id_artwork": 326,
+        "name": "thousand",
+        "style": "arrive",
+        "format": "person",
+        "year_create": 1980,
+        "id_author": 888
+    },
+    {
+        "id_artwork": 327,
+        "name": "another",
+        "style": "similar",
+        "format": "smile",
+        "year_create": 2011,
+        "id_author": 289
+    },
+    {
+        "id_artwork": 328,
+        "name": "cause",
+        "style": "mother",
+        "format": "voice",
+        "year_create": 2008,
+        "id_author": 520
+    },
+    {
+        "id_artwork": 329,
+        "name": "administration",
+        "style": "matter",
+        "format": "policy",
+        "year_create": 1990,
+        "id_author": 563
+    },
+    {
+        "id_artwork": 330,
+        "name": "address",
+        "style": "activity",
+        "format": "act",
+        "year_create": 1989,
+        "id_author": 945
+    },
+    {
+        "id_artwork": 331,
+        "name": "last",
+        "style": "skill",
+        "format": "data",
+        "year_create": 1972,
+        "id_author": 507
+    },
+    {
+        "id_artwork": 332,
+        "name": "whole",
+        "style": "appear",
+        "format": "leg",
+        "year_create": 1990,
+        "id_author": 880
+    },
+    {
+        "id_artwork": 333,
+        "name": "speech",
+        "style": "at",
+        "format": "join",
+        "year_create": 1996,
+        "id_author": 599
+    },
+    {
+        "id_artwork": 334,
+        "name": "card",
+        "style": "state",
+        "format": "each",
+        "year_create": 2003,
+        "id_author": 53
+    },
+    {
+        "id_artwork": 335,
+        "name": "our",
+        "style": "including",
+        "format": "computer",
+        "year_create": 2016,
+        "id_author": 637
+    },
+    {
+        "id_artwork": 336,
+        "name": "future",
+        "style": "interesting",
+        "format": "door",
+        "year_create": 1984,
+        "id_author": 497
+    },
+    {
+        "id_artwork": 337,
+        "name": "plant",
+        "style": "mean",
+        "format": "building",
+        "year_create": 2018,
+        "id_author": 75
+    },
+    {
+        "id_artwork": 338,
+        "name": "effect",
+        "style": "student",
+        "format": "over",
+        "year_create": 1971,
+        "id_author": 311
+    },
+    {
+        "id_artwork": 339,
+        "name": "represent",
+        "style": "whose",
+        "format": "Democrat",
+        "year_create": 2009,
+        "id_author": 350
+    },
+    {
+        "id_artwork": 340,
+        "name": "speech",
+        "style": "different",
+        "format": "close",
+        "year_create": 2018,
+        "id_author": 462
+    },
+    {
+        "id_artwork": 341,
+        "name": "while",
+        "style": "could",
+        "format": "possible",
+        "year_create": 1985,
+        "id_author": 983
+    },
+    {
+        "id_artwork": 342,
+        "name": "clear",
+        "style": "three",
+        "format": "unit",
+        "year_create": 1989,
+        "id_author": 426
+    },
+    {
+        "id_artwork": 343,
+        "name": "security",
+        "style": "system",
+        "format": "degree",
+        "year_create": 1972,
+        "id_author": 161
+    },
+    {
+        "id_artwork": 344,
+        "name": "hot",
+        "style": "think",
+        "format": "easy",
+        "year_create": 2010,
+        "id_author": 381
+    },
+    {
+        "id_artwork": 345,
+        "name": "gun",
+        "style": "accept",
+        "format": "because",
+        "year_create": 2000,
+        "id_author": 416
+    },
+    {
+        "id_artwork": 346,
+        "name": "be",
+        "style": "road",
+        "format": "realize",
+        "year_create": 2003,
+        "id_author": 262
+    },
+    {
+        "id_artwork": 347,
+        "name": "leg",
+        "style": "without",
+        "format": "red",
+        "year_create": 1981,
+        "id_author": 28
+    },
+    {
+        "id_artwork": 348,
+        "name": "should",
+        "style": "investment",
+        "format": "pass",
+        "year_create": 2017,
+        "id_author": 558
+    },
+    {
+        "id_artwork": 349,
+        "name": "president",
+        "style": "office",
+        "format": "most",
+        "year_create": 2014,
+        "id_author": 886
+    },
+    {
+        "id_artwork": 350,
+        "name": "help",
+        "style": "agency",
+        "format": "include",
+        "year_create": 1974,
+        "id_author": 705
+    },
+    {
+        "id_artwork": 351,
+        "name": "cover",
+        "style": "able",
+        "format": "would",
+        "year_create": 1985,
+        "id_author": 806
+    },
+    {
+        "id_artwork": 352,
+        "name": "ask",
+        "style": "teach",
+        "format": "traditional",
+        "year_create": 1991,
+        "id_author": 622
+    },
+    {
+        "id_artwork": 353,
+        "name": "usually",
+        "style": "fight",
+        "format": "join",
+        "year_create": 2020,
+        "id_author": 12
+    },
+    {
+        "id_artwork": 354,
+        "name": "yet",
+        "style": "strong",
+        "format": "adult",
+        "year_create": 2020,
+        "id_author": 181
+    },
+    {
+        "id_artwork": 355,
+        "name": "book",
+        "style": "woman",
+        "format": "address",
+        "year_create": 2013,
+        "id_author": 679
+    },
+    {
+        "id_artwork": 356,
+        "name": "dream",
+        "style": "them",
+        "format": "summer",
+        "year_create": 1972,
+        "id_author": 86
+    },
+    {
+        "id_artwork": 357,
+        "name": "board",
+        "style": "billion",
+        "format": "no",
+        "year_create": 2015,
+        "id_author": 609
+    },
+    {
+        "id_artwork": 358,
+        "name": "rule",
+        "style": "true",
+        "format": "quite",
+        "year_create": 1991,
+        "id_author": 760
+    },
+    {
+        "id_artwork": 359,
+        "name": "and",
+        "style": "reality",
+        "format": "relationship",
+        "year_create": 2020,
+        "id_author": 348
+    },
+    {
+        "id_artwork": 360,
+        "name": "fine",
+        "style": "under",
+        "format": "central",
+        "year_create": 2023,
+        "id_author": 965
+    },
+    {
+        "id_artwork": 361,
+        "name": "condition",
+        "style": "which",
+        "format": "market",
+        "year_create": 1972,
+        "id_author": 768
+    },
+    {
+        "id_artwork": 362,
+        "name": "section",
+        "style": "coach",
+        "format": "hand",
+        "year_create": 2006,
+        "id_author": 472
+    },
+    {
+        "id_artwork": 363,
+        "name": "growth",
+        "style": "before",
+        "format": "continue",
+        "year_create": 1984,
+        "id_author": 588
+    },
+    {
+        "id_artwork": 364,
+        "name": "city",
+        "style": "approach",
+        "format": "friend",
+        "year_create": 1975,
+        "id_author": 792
+    },
+    {
+        "id_artwork": 365,
+        "name": "most",
+        "style": "role",
+        "format": "hand",
+        "year_create": 2019,
+        "id_author": 389
+    },
+    {
+        "id_artwork": 366,
+        "name": "this",
+        "style": "each",
+        "format": "painting",
+        "year_create": 1976,
+        "id_author": 493
+    },
+    {
+        "id_artwork": 367,
+        "name": "throw",
+        "style": "certainly",
+        "format": "plan",
+        "year_create": 2011,
+        "id_author": 964
+    },
+    {
+        "id_artwork": 368,
+        "name": "soldier",
+        "style": "fire",
+        "format": "see",
+        "year_create": 2016,
+        "id_author": 441
+    },
+    {
+        "id_artwork": 369,
+        "name": "tough",
+        "style": "cause",
+        "format": "six",
+        "year_create": 2015,
+        "id_author": 155
+    },
+    {
+        "id_artwork": 370,
+        "name": "door",
+        "style": "simple",
+        "format": "wait",
+        "year_create": 1987,
+        "id_author": 308
+    },
+    {
+        "id_artwork": 371,
+        "name": "make",
+        "style": "national",
+        "format": "politics",
+        "year_create": 2021,
+        "id_author": 235
+    },
+    {
+        "id_artwork": 372,
+        "name": "all",
+        "style": "manager",
+        "format": "heart",
+        "year_create": 1992,
+        "id_author": 327
+    },
+    {
+        "id_artwork": 373,
+        "name": "success",
+        "style": "statement",
+        "format": "event",
+        "year_create": 2020,
+        "id_author": 28
+    },
+    {
+        "id_artwork": 374,
+        "name": "page",
+        "style": "others",
+        "format": "discover",
+        "year_create": 1992,
+        "id_author": 805
+    },
+    {
+        "id_artwork": 375,
+        "name": "contain",
+        "style": "able",
+        "format": "indicate",
+        "year_create": 1973,
+        "id_author": 60
+    },
+    {
+        "id_artwork": 376,
+        "name": "lose",
+        "style": "music",
+        "format": "this",
+        "year_create": 1976,
+        "id_author": 290
+    },
+    {
+        "id_artwork": 377,
+        "name": "difficult",
+        "style": "north",
+        "format": "present",
+        "year_create": 1998,
+        "id_author": 890
+    },
+    {
+        "id_artwork": 378,
+        "name": "receive",
+        "style": "few",
+        "format": "someone",
+        "year_create": 2006,
+        "id_author": 285
+    },
+    {
+        "id_artwork": 379,
+        "name": "wide",
+        "style": "sure",
+        "format": "cut",
+        "year_create": 1988,
+        "id_author": 633
+    },
+    {
+        "id_artwork": 380,
+        "name": "culture",
+        "style": "agreement",
+        "format": "evidence",
+        "year_create": 1998,
+        "id_author": 856
+    },
+    {
+        "id_artwork": 381,
+        "name": "eye",
+        "style": "look",
+        "format": "director",
+        "year_create": 1972,
+        "id_author": 613
+    },
+    {
+        "id_artwork": 382,
+        "name": "condition",
+        "style": "create",
+        "format": "author",
+        "year_create": 2003,
+        "id_author": 194
+    },
+    {
+        "id_artwork": 383,
+        "name": "word",
+        "style": "red",
+        "format": "raise",
+        "year_create": 1993,
+        "id_author": 359
+    },
+    {
+        "id_artwork": 384,
+        "name": "live",
+        "style": "hundred",
+        "format": "level",
+        "year_create": 2011,
+        "id_author": 633
+    },
+    {
+        "id_artwork": 385,
+        "name": "whose",
+        "style": "success",
+        "format": "summer",
+        "year_create": 1981,
+        "id_author": 297
+    },
+    {
+        "id_artwork": 386,
+        "name": "produce",
+        "style": "similar",
+        "format": "center",
+        "year_create": 2022,
+        "id_author": 473
+    },
+    {
+        "id_artwork": 387,
+        "name": "tree",
+        "style": "TV",
+        "format": "natural",
+        "year_create": 1988,
+        "id_author": 458
+    },
+    {
+        "id_artwork": 388,
+        "name": "after",
+        "style": "issue",
+        "format": "recent",
+        "year_create": 2001,
+        "id_author": 844
+    },
+    {
+        "id_artwork": 389,
+        "name": "hotel",
+        "style": "whatever",
+        "format": "everything",
+        "year_create": 2007,
+        "id_author": 202
+    },
+    {
+        "id_artwork": 390,
+        "name": "possible",
+        "style": "company",
+        "format": "quite",
+        "year_create": 2005,
+        "id_author": 931
+    },
+    {
+        "id_artwork": 391,
+        "name": "trial",
+        "style": "detail",
+        "format": "eye",
+        "year_create": 1985,
+        "id_author": 750
+    },
+    {
+        "id_artwork": 392,
+        "name": "win",
+        "style": "him",
+        "format": "important",
+        "year_create": 2005,
+        "id_author": 679
+    },
+    {
+        "id_artwork": 393,
+        "name": "tell",
+        "style": "record",
+        "format": "everybody",
+        "year_create": 1986,
+        "id_author": 507
+    },
+    {
+        "id_artwork": 394,
+        "name": "challenge",
+        "style": "three",
+        "format": "apply",
+        "year_create": 1985,
+        "id_author": 434
+    },
+    {
+        "id_artwork": 395,
+        "name": "major",
+        "style": "capital",
+        "format": "attorney",
+        "year_create": 1987,
+        "id_author": 365
+    },
+    {
+        "id_artwork": 396,
+        "name": "real",
+        "style": "fly",
+        "format": "ever",
+        "year_create": 1971,
+        "id_author": 366
+    },
+    {
+        "id_artwork": 397,
+        "name": "old",
+        "style": "manage",
+        "format": "phone",
+        "year_create": 2008,
+        "id_author": 543
+    },
+    {
+        "id_artwork": 398,
+        "name": "over",
+        "style": "weight",
+        "format": "skill",
+        "year_create": 1988,
+        "id_author": 573
+    },
+    {
+        "id_artwork": 399,
+        "name": "box",
+        "style": "green",
+        "format": "student",
+        "year_create": 1978,
+        "id_author": 133
+    },
+    {
+        "id_artwork": 400,
+        "name": "practice",
+        "style": "others",
+        "format": "often",
+        "year_create": 2017,
+        "id_author": 810
+    },
+    {
+        "id_artwork": 401,
+        "name": "not",
+        "style": "use",
+        "format": "that",
+        "year_create": 1980,
+        "id_author": 51
+    },
+    {
+        "id_artwork": 402,
+        "name": "report",
+        "style": "senior",
+        "format": "seem",
+        "year_create": 1981,
+        "id_author": 259
+    },
+    {
+        "id_artwork": 403,
+        "name": "though",
+        "style": "child",
+        "format": "direction",
+        "year_create": 2002,
+        "id_author": 411
+    },
+    {
+        "id_artwork": 404,
+        "name": "recent",
+        "style": "reduce",
+        "format": "less",
+        "year_create": 2004,
+        "id_author": 550
+    },
+    {
+        "id_artwork": 405,
+        "name": "within",
+        "style": "eye",
+        "format": "finally",
+        "year_create": 1999,
+        "id_author": 547
+    },
+    {
+        "id_artwork": 406,
+        "name": "radio",
+        "style": "our",
+        "format": "seek",
+        "year_create": 2020,
+        "id_author": 804
+    },
+    {
+        "id_artwork": 407,
+        "name": "feel",
+        "style": "we",
+        "format": "lot",
+        "year_create": 2024,
+        "id_author": 267
+    },
+    {
+        "id_artwork": 408,
+        "name": "which",
+        "style": "fight",
+        "format": "minute",
+        "year_create": 2021,
+        "id_author": 122
+    },
+    {
+        "id_artwork": 409,
+        "name": "necessary",
+        "style": "return",
+        "format": "specific",
+        "year_create": 2005,
+        "id_author": 115
+    },
+    {
+        "id_artwork": 410,
+        "name": "hear",
+        "style": "particular",
+        "format": "would",
+        "year_create": 2023,
+        "id_author": 958
+    },
+    {
+        "id_artwork": 411,
+        "name": "fear",
+        "style": "away",
+        "format": "various",
+        "year_create": 1974,
+        "id_author": 943
+    },
+    {
+        "id_artwork": 412,
+        "name": "result",
+        "style": "product",
+        "format": "book",
+        "year_create": 2005,
+        "id_author": 290
+    },
+    {
+        "id_artwork": 413,
+        "name": "teacher",
+        "style": "pay",
+        "format": "candidate",
+        "year_create": 2001,
+        "id_author": 759
+    },
+    {
+        "id_artwork": 414,
+        "name": "suffer",
+        "style": "right",
+        "format": "board",
+        "year_create": 1989,
+        "id_author": 435
+    },
+    {
+        "id_artwork": 415,
+        "name": "trial",
+        "style": "weight",
+        "format": "value",
+        "year_create": 2000,
+        "id_author": 75
+    },
+    {
+        "id_artwork": 416,
+        "name": "until",
+        "style": "machine",
+        "format": "drop",
+        "year_create": 1999,
+        "id_author": 831
+    },
+    {
+        "id_artwork": 417,
+        "name": "kitchen",
+        "style": "window",
+        "format": "decide",
+        "year_create": 1974,
+        "id_author": 960
+    },
+    {
+        "id_artwork": 418,
+        "name": "hospital",
+        "style": "understand",
+        "format": "together",
+        "year_create": 2004,
+        "id_author": 513
+    },
+    {
+        "id_artwork": 419,
+        "name": "reach",
+        "style": "stay",
+        "format": "billion",
+        "year_create": 2012,
+        "id_author": 880
+    },
+    {
+        "id_artwork": 420,
+        "name": "purpose",
+        "style": "camera",
+        "format": "far",
+        "year_create": 2016,
+        "id_author": 729
+    },
+    {
+        "id_artwork": 421,
+        "name": "arm",
+        "style": "production",
+        "format": "project",
+        "year_create": 1991,
+        "id_author": 43
+    },
+    {
+        "id_artwork": 422,
+        "name": "three",
+        "style": "past",
+        "format": "quickly",
+        "year_create": 2009,
+        "id_author": 658
+    },
+    {
+        "id_artwork": 423,
+        "name": "whom",
+        "style": "measure",
+        "format": "suffer",
+        "year_create": 1991,
+        "id_author": 311
+    },
+    {
+        "id_artwork": 424,
+        "name": "improve",
+        "style": "indicate",
+        "format": "memory",
+        "year_create": 2003,
+        "id_author": 839
+    },
+    {
+        "id_artwork": 425,
+        "name": "realize",
+        "style": "all",
+        "format": "authority",
+        "year_create": 1987,
+        "id_author": 41
+    },
+    {
+        "id_artwork": 426,
+        "name": "car",
+        "style": "leave",
+        "format": "financial",
+        "year_create": 1989,
+        "id_author": 113
+    },
+    {
+        "id_artwork": 427,
+        "name": "herself",
+        "style": "since",
+        "format": "of",
+        "year_create": 1980,
+        "id_author": 801
+    },
+    {
+        "id_artwork": 428,
+        "name": "really",
+        "style": "the",
+        "format": "add",
+        "year_create": 2017,
+        "id_author": 723
+    },
+    {
+        "id_artwork": 429,
+        "name": "professor",
+        "style": "dream",
+        "format": "life",
+        "year_create": 2012,
+        "id_author": 604
+    },
+    {
+        "id_artwork": 430,
+        "name": "cold",
+        "style": "west",
+        "format": "heart",
+        "year_create": 2009,
+        "id_author": 620
+    },
+    {
+        "id_artwork": 431,
+        "name": "early",
+        "style": "they",
+        "format": "create",
+        "year_create": 1981,
+        "id_author": 204
+    },
+    {
+        "id_artwork": 432,
+        "name": "range",
+        "style": "need",
+        "format": "outside",
+        "year_create": 1999,
+        "id_author": 836
+    },
+    {
+        "id_artwork": 433,
+        "name": "call",
+        "style": "girl",
+        "format": "despite",
+        "year_create": 2015,
+        "id_author": 720
+    },
+    {
+        "id_artwork": 434,
+        "name": "our",
+        "style": "glass",
+        "format": "figure",
+        "year_create": 2005,
+        "id_author": 121
+    },
+    {
+        "id_artwork": 435,
+        "name": "all",
+        "style": "at",
+        "format": "feeling",
+        "year_create": 1994,
+        "id_author": 614
+    },
+    {
+        "id_artwork": 436,
+        "name": "my",
+        "style": "over",
+        "format": "financial",
+        "year_create": 2010,
+        "id_author": 837
+    },
+    {
+        "id_artwork": 437,
+        "name": "idea",
+        "style": "return",
+        "format": "month",
+        "year_create": 1981,
+        "id_author": 427
+    },
+    {
+        "id_artwork": 438,
+        "name": "rather",
+        "style": "suggest",
+        "format": "off",
+        "year_create": 2011,
+        "id_author": 36
+    },
+    {
+        "id_artwork": 439,
+        "name": "affect",
+        "style": "she",
+        "format": "national",
+        "year_create": 1981,
+        "id_author": 916
+    },
+    {
+        "id_artwork": 440,
+        "name": "environment",
+        "style": "east",
+        "format": "third",
+        "year_create": 2002,
+        "id_author": 846
+    },
+    {
+        "id_artwork": 441,
+        "name": "bill",
+        "style": "kitchen",
+        "format": "various",
+        "year_create": 1995,
+        "id_author": 302
+    },
+    {
+        "id_artwork": 442,
+        "name": "occur",
+        "style": "your",
+        "format": "case",
+        "year_create": 1981,
+        "id_author": 990
+    },
+    {
+        "id_artwork": 443,
+        "name": "man",
+        "style": "leader",
+        "format": "doctor",
+        "year_create": 2008,
+        "id_author": 495
+    },
+    {
+        "id_artwork": 444,
+        "name": "try",
+        "style": "establish",
+        "format": "company",
+        "year_create": 1970,
+        "id_author": 976
+    },
+    {
+        "id_artwork": 445,
+        "name": "themselves",
+        "style": "participant",
+        "format": "really",
+        "year_create": 2006,
+        "id_author": 652
+    },
+    {
+        "id_artwork": 446,
+        "name": "worker",
+        "style": "less",
+        "format": "drop",
+        "year_create": 2010,
+        "id_author": 246
+    },
+    {
+        "id_artwork": 447,
+        "name": "word",
+        "style": "resource",
+        "format": "everything",
+        "year_create": 2009,
+        "id_author": 417
+    },
+    {
+        "id_artwork": 448,
+        "name": "when",
+        "style": "stage",
+        "format": "act",
+        "year_create": 1984,
+        "id_author": 439
+    },
+    {
+        "id_artwork": 449,
+        "name": "trip",
+        "style": "less",
+        "format": "less",
+        "year_create": 2010,
+        "id_author": 150
+    },
+    {
+        "id_artwork": 450,
+        "name": "name",
+        "style": "foot",
+        "format": "every",
+        "year_create": 2005,
+        "id_author": 524
+    },
+    {
+        "id_artwork": 451,
+        "name": "short",
+        "style": "region",
+        "format": "memory",
+        "year_create": 2017,
+        "id_author": 133
+    },
+    {
+        "id_artwork": 452,
+        "name": "consumer",
+        "style": "stock",
+        "format": "hope",
+        "year_create": 1996,
+        "id_author": 899
+    },
+    {
+        "id_artwork": 453,
+        "name": "dinner",
+        "style": "interest",
+        "format": "choose",
+        "year_create": 2003,
+        "id_author": 289
+    },
+    {
+        "id_artwork": 454,
+        "name": "time",
+        "style": "charge",
+        "format": "send",
+        "year_create": 1971,
+        "id_author": 585
+    },
+    {
+        "id_artwork": 455,
+        "name": "senior",
+        "style": "detail",
+        "format": "whose",
+        "year_create": 1993,
+        "id_author": 993
+    },
+    {
+        "id_artwork": 456,
+        "name": "hair",
+        "style": "can",
+        "format": "need",
+        "year_create": 1992,
+        "id_author": 275
+    },
+    {
+        "id_artwork": 457,
+        "name": "hair",
+        "style": "series",
+        "format": "area",
+        "year_create": 1985,
+        "id_author": 361
+    },
+    {
+        "id_artwork": 458,
+        "name": "interest",
+        "style": "kid",
+        "format": "nor",
+        "year_create": 1990,
+        "id_author": 961
+    },
+    {
+        "id_artwork": 459,
+        "name": "important",
+        "style": "benefit",
+        "format": "important",
+        "year_create": 2014,
+        "id_author": 917
+    },
+    {
+        "id_artwork": 460,
+        "name": "want",
+        "style": "science",
+        "format": "president",
+        "year_create": 2023,
+        "id_author": 208
+    },
+    {
+        "id_artwork": 461,
+        "name": "money",
+        "style": "especially",
+        "format": "size",
+        "year_create": 2006,
+        "id_author": 707
+    },
+    {
+        "id_artwork": 462,
+        "name": "our",
+        "style": "main",
+        "format": "right",
+        "year_create": 1973,
+        "id_author": 258
+    },
+    {
+        "id_artwork": 463,
+        "name": "area",
+        "style": "budget",
+        "format": "whether",
+        "year_create": 2009,
+        "id_author": 476
+    },
+    {
+        "id_artwork": 464,
+        "name": "happen",
+        "style": "change",
+        "format": "speech",
+        "year_create": 2008,
+        "id_author": 420
+    },
+    {
+        "id_artwork": 465,
+        "name": "remember",
+        "style": "help",
+        "format": "as",
+        "year_create": 2018,
+        "id_author": 939
+    },
+    {
+        "id_artwork": 466,
+        "name": "body",
+        "style": "probably",
+        "format": "idea",
+        "year_create": 1995,
+        "id_author": 180
+    },
+    {
+        "id_artwork": 467,
+        "name": "prove",
+        "style": "me",
+        "format": "great",
+        "year_create": 1977,
+        "id_author": 546
+    },
+    {
+        "id_artwork": 468,
+        "name": "page",
+        "style": "dinner",
+        "format": "sound",
+        "year_create": 1999,
+        "id_author": 994
+    },
+    {
+        "id_artwork": 469,
+        "name": "total",
+        "style": "trip",
+        "format": "firm",
+        "year_create": 1981,
+        "id_author": 136
+    },
+    {
+        "id_artwork": 470,
+        "name": "professional",
+        "style": "whose",
+        "format": "maybe",
+        "year_create": 1975,
+        "id_author": 394
+    },
+    {
+        "id_artwork": 471,
+        "name": "wait",
+        "style": "staff",
+        "format": "watch",
+        "year_create": 1991,
+        "id_author": 457
+    },
+    {
+        "id_artwork": 472,
+        "name": "by",
+        "style": "subject",
+        "format": "pass",
+        "year_create": 2023,
+        "id_author": 395
+    },
+    {
+        "id_artwork": 473,
+        "name": "center",
+        "style": "she",
+        "format": "husband",
+        "year_create": 2005,
+        "id_author": 531
+    },
+    {
+        "id_artwork": 474,
+        "name": "sometimes",
+        "style": "up",
+        "format": "value",
+        "year_create": 2002,
+        "id_author": 669
+    },
+    {
+        "id_artwork": 475,
+        "name": "particular",
+        "style": "whether",
+        "format": "space",
+        "year_create": 1979,
+        "id_author": 128
+    },
+    {
+        "id_artwork": 476,
+        "name": "technology",
+        "style": "reflect",
+        "format": "same",
+        "year_create": 1999,
+        "id_author": 376
+    },
+    {
+        "id_artwork": 477,
+        "name": "quickly",
+        "style": "pay",
+        "format": "too",
+        "year_create": 1988,
+        "id_author": 598
+    },
+    {
+        "id_artwork": 478,
+        "name": "material",
+        "style": "product",
+        "format": "white",
+        "year_create": 1986,
+        "id_author": 142
+    },
+    {
+        "id_artwork": 479,
+        "name": "believe",
+        "style": "cover",
+        "format": "small",
+        "year_create": 1985,
+        "id_author": 562
+    },
+    {
+        "id_artwork": 480,
+        "name": "kitchen",
+        "style": "baby",
+        "format": "shoulder",
+        "year_create": 2000,
+        "id_author": 94
+    },
+    {
+        "id_artwork": 481,
+        "name": "give",
+        "style": "prepare",
+        "format": "develop",
+        "year_create": 1990,
+        "id_author": 169
+    },
+    {
+        "id_artwork": 482,
+        "name": "stage",
+        "style": "small",
+        "format": "across",
+        "year_create": 1974,
+        "id_author": 223
+    },
+    {
+        "id_artwork": 483,
+        "name": "include",
+        "style": "spend",
+        "format": "family",
+        "year_create": 2010,
+        "id_author": 613
+    },
+    {
+        "id_artwork": 484,
+        "name": "employee",
+        "style": "real",
+        "format": "produce",
+        "year_create": 2013,
+        "id_author": 574
+    },
+    {
+        "id_artwork": 485,
+        "name": "especially",
+        "style": "pattern",
+        "format": "eat",
+        "year_create": 2017,
+        "id_author": 762
+    },
+    {
+        "id_artwork": 486,
+        "name": "think",
+        "style": "street",
+        "format": "section",
+        "year_create": 2001,
+        "id_author": 853
+    },
+    {
+        "id_artwork": 487,
+        "name": "lead",
+        "style": "whose",
+        "format": "blue",
+        "year_create": 2000,
+        "id_author": 991
+    },
+    {
+        "id_artwork": 488,
+        "name": "church",
+        "style": "senior",
+        "format": "cup",
+        "year_create": 2003,
+        "id_author": 929
+    },
+    {
+        "id_artwork": 489,
+        "name": "participant",
+        "style": "increase",
+        "format": "treatment",
+        "year_create": 1986,
+        "id_author": 968
+    },
+    {
+        "id_artwork": 490,
+        "name": "budget",
+        "style": "minute",
+        "format": "computer",
+        "year_create": 1977,
+        "id_author": 831
+    },
+    {
+        "id_artwork": 491,
+        "name": "perhaps",
+        "style": "number",
+        "format": "action",
+        "year_create": 1997,
+        "id_author": 326
+    },
+    {
+        "id_artwork": 492,
+        "name": "reach",
+        "style": "shake",
+        "format": "member",
+        "year_create": 1994,
+        "id_author": 870
+    },
+    {
+        "id_artwork": 493,
+        "name": "miss",
+        "style": "adult",
+        "format": "somebody",
+        "year_create": 1991,
+        "id_author": 471
+    },
+    {
+        "id_artwork": 494,
+        "name": "along",
+        "style": "reveal",
+        "format": "computer",
+        "year_create": 2017,
+        "id_author": 905
+    },
+    {
+        "id_artwork": 495,
+        "name": "anyone",
+        "style": "whatever",
+        "format": "feel",
+        "year_create": 1998,
+        "id_author": 921
+    },
+    {
+        "id_artwork": 496,
+        "name": "hold",
+        "style": "prepare",
+        "format": "hour",
+        "year_create": 2007,
+        "id_author": 761
+    },
+    {
+        "id_artwork": 497,
+        "name": "position",
+        "style": "economy",
+        "format": "man",
+        "year_create": 1986,
+        "id_author": 287
+    },
+    {
+        "id_artwork": 498,
+        "name": "boy",
+        "style": "without",
+        "format": "research",
+        "year_create": 2020,
+        "id_author": 838
+    },
+    {
+        "id_artwork": 499,
+        "name": "I",
+        "style": "eye",
+        "format": "finally",
+        "year_create": 1979,
+        "id_author": 831
+    },
+    {
+        "id_artwork": 500,
+        "name": "great",
+        "style": "four",
+        "format": "management",
+        "year_create": 2024,
+        "id_author": 552
+    },
+    {
+        "id_artwork": 501,
+        "name": "whose",
+        "style": "writer",
+        "format": "plan",
+        "year_create": 2002,
+        "id_author": 539
+    },
+    {
+        "id_artwork": 502,
+        "name": "new",
+        "style": "know",
+        "format": "require",
+        "year_create": 1981,
+        "id_author": 327
+    },
+    {
+        "id_artwork": 503,
+        "name": "instead",
+        "style": "rock",
+        "format": "million",
+        "year_create": 2011,
+        "id_author": 62
+    },
+    {
+        "id_artwork": 504,
+        "name": "measure",
+        "style": "avoid",
+        "format": "student",
+        "year_create": 2019,
+        "id_author": 162
+    },
+    {
+        "id_artwork": 505,
+        "name": "play",
+        "style": "trade",
+        "format": "quite",
+        "year_create": 1970,
+        "id_author": 299
+    },
+    {
+        "id_artwork": 506,
+        "name": "society",
+        "style": "old",
+        "format": "soldier",
+        "year_create": 2006,
+        "id_author": 466
+    },
+    {
+        "id_artwork": 507,
+        "name": "style",
+        "style": "growth",
+        "format": "weight",
+        "year_create": 2016,
+        "id_author": 21
+    },
+    {
+        "id_artwork": 508,
+        "name": "indicate",
+        "style": "anyone",
+        "format": "fill",
+        "year_create": 1975,
+        "id_author": 525
+    },
+    {
+        "id_artwork": 509,
+        "name": "down",
+        "style": "daughter",
+        "format": "forward",
+        "year_create": 1991,
+        "id_author": 984
+    },
+    {
+        "id_artwork": 510,
+        "name": "position",
+        "style": "financial",
+        "format": "pretty",
+        "year_create": 1972,
+        "id_author": 396
+    },
+    {
+        "id_artwork": 511,
+        "name": "imagine",
+        "style": "rate",
+        "format": "over",
+        "year_create": 1986,
+        "id_author": 158
+    },
+    {
+        "id_artwork": 512,
+        "name": "enter",
+        "style": "write",
+        "format": "open",
+        "year_create": 1998,
+        "id_author": 795
+    },
+    {
+        "id_artwork": 513,
+        "name": "office",
+        "style": "however",
+        "format": "without",
+        "year_create": 1973,
+        "id_author": 781
+    },
+    {
+        "id_artwork": 514,
+        "name": "rock",
+        "style": "step",
+        "format": "study",
+        "year_create": 2020,
+        "id_author": 186
+    },
+    {
+        "id_artwork": 515,
+        "name": "design",
+        "style": "kid",
+        "format": "usually",
+        "year_create": 2007,
+        "id_author": 501
+    },
+    {
+        "id_artwork": 516,
+        "name": "garden",
+        "style": "participant",
+        "format": "situation",
+        "year_create": 2023,
+        "id_author": 209
+    },
+    {
+        "id_artwork": 517,
+        "name": "forget",
+        "style": "year",
+        "format": "finally",
+        "year_create": 2009,
+        "id_author": 586
+    },
+    {
+        "id_artwork": 518,
+        "name": "staff",
+        "style": "letter",
+        "format": "amount",
+        "year_create": 2012,
+        "id_author": 577
+    },
+    {
+        "id_artwork": 519,
+        "name": "value",
+        "style": "nor",
+        "format": "stuff",
+        "year_create": 2005,
+        "id_author": 837
+    },
+    {
+        "id_artwork": 520,
+        "name": "structure",
+        "style": "resource",
+        "format": "American",
+        "year_create": 2006,
+        "id_author": 819
+    },
+    {
+        "id_artwork": 521,
+        "name": "this",
+        "style": "off",
+        "format": "game",
+        "year_create": 2011,
+        "id_author": 423
+    },
+    {
+        "id_artwork": 522,
+        "name": "war",
+        "style": "what",
+        "format": "home",
+        "year_create": 1982,
+        "id_author": 83
+    },
+    {
+        "id_artwork": 523,
+        "name": "wife",
+        "style": "car",
+        "format": "side",
+        "year_create": 2013,
+        "id_author": 595
+    },
+    {
+        "id_artwork": 524,
+        "name": "suddenly",
+        "style": "firm",
+        "format": "finish",
+        "year_create": 1977,
+        "id_author": 235
+    },
+    {
+        "id_artwork": 525,
+        "name": "material",
+        "style": "become",
+        "format": "final",
+        "year_create": 1992,
+        "id_author": 848
+    },
+    {
+        "id_artwork": 526,
+        "name": "bag",
+        "style": "bad",
+        "format": "cover",
+        "year_create": 1998,
+        "id_author": 117
+    },
+    {
+        "id_artwork": 527,
+        "name": "let",
+        "style": "nearly",
+        "format": "first",
+        "year_create": 1980,
+        "id_author": 8
+    },
+    {
+        "id_artwork": 528,
+        "name": "growth",
+        "style": "community",
+        "format": "why",
+        "year_create": 1973,
+        "id_author": 609
+    },
+    {
+        "id_artwork": 529,
+        "name": "both",
+        "style": "conference",
+        "format": "tend",
+        "year_create": 1988,
+        "id_author": 33
+    },
+    {
+        "id_artwork": 530,
+        "name": "opportunity",
+        "style": "off",
+        "format": "national",
+        "year_create": 1981,
+        "id_author": 844
+    },
+    {
+        "id_artwork": 531,
+        "name": "they",
+        "style": "do",
+        "format": "model",
+        "year_create": 2018,
+        "id_author": 670
+    },
+    {
+        "id_artwork": 532,
+        "name": "computer",
+        "style": "material",
+        "format": "do",
+        "year_create": 2009,
+        "id_author": 129
+    },
+    {
+        "id_artwork": 533,
+        "name": "color",
+        "style": "good",
+        "format": "country",
+        "year_create": 2006,
+        "id_author": 726
+    },
+    {
+        "id_artwork": 534,
+        "name": "wrong",
+        "style": "field",
+        "format": "national",
+        "year_create": 1981,
+        "id_author": 303
+    },
+    {
+        "id_artwork": 535,
+        "name": "if",
+        "style": "several",
+        "format": "him",
+        "year_create": 2019,
+        "id_author": 218
+    },
+    {
+        "id_artwork": 536,
+        "name": "money",
+        "style": "state",
+        "format": "everybody",
+        "year_create": 1978,
+        "id_author": 367
+    },
+    {
+        "id_artwork": 537,
+        "name": "standard",
+        "style": "machine",
+        "format": "perhaps",
+        "year_create": 2020,
+        "id_author": 509
+    },
+    {
+        "id_artwork": 538,
+        "name": "travel",
+        "style": "son",
+        "format": "pick",
+        "year_create": 2023,
+        "id_author": 299
+    },
+    {
+        "id_artwork": 539,
+        "name": "color",
+        "style": "cold",
+        "format": "according",
+        "year_create": 1992,
+        "id_author": 864
+    },
+    {
+        "id_artwork": 540,
+        "name": "project",
+        "style": "value",
+        "format": "somebody",
+        "year_create": 2000,
+        "id_author": 220
+    },
+    {
+        "id_artwork": 541,
+        "name": "man",
+        "style": "receive",
+        "format": "along",
+        "year_create": 2004,
+        "id_author": 426
+    },
+    {
+        "id_artwork": 542,
+        "name": "two",
+        "style": "major",
+        "format": "training",
+        "year_create": 1994,
+        "id_author": 881
+    },
+    {
+        "id_artwork": 543,
+        "name": "rather",
+        "style": "summer",
+        "format": "body",
+        "year_create": 1986,
+        "id_author": 61
+    },
+    {
+        "id_artwork": 544,
+        "name": "big",
+        "style": "do",
+        "format": "form",
+        "year_create": 2009,
+        "id_author": 799
+    },
+    {
+        "id_artwork": 545,
+        "name": "agent",
+        "style": "rich",
+        "format": "near",
+        "year_create": 2022,
+        "id_author": 266
+    },
+    {
+        "id_artwork": 546,
+        "name": "hour",
+        "style": "their",
+        "format": "property",
+        "year_create": 2007,
+        "id_author": 260
+    },
+    {
+        "id_artwork": 547,
+        "name": "protect",
+        "style": "church",
+        "format": "past",
+        "year_create": 1992,
+        "id_author": 598
+    },
+    {
+        "id_artwork": 548,
+        "name": "official",
+        "style": "clearly",
+        "format": "long",
+        "year_create": 2021,
+        "id_author": 370
+    },
+    {
+        "id_artwork": 549,
+        "name": "market",
+        "style": "himself",
+        "format": "day",
+        "year_create": 2001,
+        "id_author": 688
+    },
+    {
+        "id_artwork": 550,
+        "name": "big",
+        "style": "network",
+        "format": "community",
+        "year_create": 1980,
+        "id_author": 53
+    },
+    {
+        "id_artwork": 551,
+        "name": "real",
+        "style": "song",
+        "format": "that",
+        "year_create": 1998,
+        "id_author": 645
+    },
+    {
+        "id_artwork": 552,
+        "name": "item",
+        "style": "health",
+        "format": "individual",
+        "year_create": 1999,
+        "id_author": 683
+    },
+    {
+        "id_artwork": 553,
+        "name": "soldier",
+        "style": "those",
+        "format": "increase",
+        "year_create": 2006,
+        "id_author": 293
+    },
+    {
+        "id_artwork": 554,
+        "name": "attention",
+        "style": "such",
+        "format": "glass",
+        "year_create": 1981,
+        "id_author": 190
+    },
+    {
+        "id_artwork": 555,
+        "name": "cause",
+        "style": "spend",
+        "format": "peace",
+        "year_create": 1985,
+        "id_author": 938
+    },
+    {
+        "id_artwork": 556,
+        "name": "statement",
+        "style": "feel",
+        "format": "these",
+        "year_create": 1970,
+        "id_author": 262
+    },
+    {
+        "id_artwork": 557,
+        "name": "various",
+        "style": "than",
+        "format": "sister",
+        "year_create": 1998,
+        "id_author": 399
+    },
+    {
+        "id_artwork": 558,
+        "name": "determine",
+        "style": "where",
+        "format": "which",
+        "year_create": 2007,
+        "id_author": 365
+    },
+    {
+        "id_artwork": 559,
+        "name": "record",
+        "style": "full",
+        "format": "imagine",
+        "year_create": 1987,
+        "id_author": 836
+    },
+    {
+        "id_artwork": 560,
+        "name": "get",
+        "style": "across",
+        "format": "though",
+        "year_create": 1993,
+        "id_author": 287
+    },
+    {
+        "id_artwork": 561,
+        "name": "share",
+        "style": "we",
+        "format": "money",
+        "year_create": 1976,
+        "id_author": 23
+    },
+    {
+        "id_artwork": 562,
+        "name": "happy",
+        "style": "research",
+        "format": "degree",
+        "year_create": 1972,
+        "id_author": 608
+    },
+    {
+        "id_artwork": 563,
+        "name": "gas",
+        "style": "rate",
+        "format": "day",
+        "year_create": 2020,
+        "id_author": 497
+    },
+    {
+        "id_artwork": 564,
+        "name": "late",
+        "style": "over",
+        "format": "whole",
+        "year_create": 1970,
+        "id_author": 400
+    },
+    {
+        "id_artwork": 565,
+        "name": "by",
+        "style": "outside",
+        "format": "prepare",
+        "year_create": 1979,
+        "id_author": 519
+    },
+    {
+        "id_artwork": 566,
+        "name": "form",
+        "style": "doctor",
+        "format": "run",
+        "year_create": 2006,
+        "id_author": 275
+    },
+    {
+        "id_artwork": 567,
+        "name": "professional",
+        "style": "so",
+        "format": "civil",
+        "year_create": 1994,
+        "id_author": 600
+    },
+    {
+        "id_artwork": 568,
+        "name": "member",
+        "style": "peace",
+        "format": "individual",
+        "year_create": 2020,
+        "id_author": 436
+    },
+    {
+        "id_artwork": 569,
+        "name": "easy",
+        "style": "check",
+        "format": "baby",
+        "year_create": 2016,
+        "id_author": 544
+    },
+    {
+        "id_artwork": 570,
+        "name": "put",
+        "style": "age",
+        "format": "let",
+        "year_create": 2021,
+        "id_author": 871
+    },
+    {
+        "id_artwork": 571,
+        "name": "region",
+        "style": "blue",
+        "format": "full",
+        "year_create": 1989,
+        "id_author": 959
+    },
+    {
+        "id_artwork": 572,
+        "name": "hope",
+        "style": "family",
+        "format": "physical",
+        "year_create": 1984,
+        "id_author": 452
+    },
+    {
+        "id_artwork": 573,
+        "name": "everyone",
+        "style": "move",
+        "format": "page",
+        "year_create": 2016,
+        "id_author": 486
+    },
+    {
+        "id_artwork": 574,
+        "name": "appear",
+        "style": "couple",
+        "format": "enough",
+        "year_create": 1982,
+        "id_author": 412
+    },
+    {
+        "id_artwork": 575,
+        "name": "go",
+        "style": "industry",
+        "format": "indeed",
+        "year_create": 1976,
+        "id_author": 679
+    },
+    {
+        "id_artwork": 576,
+        "name": "test",
+        "style": "next",
+        "format": "tax",
+        "year_create": 2021,
+        "id_author": 398
+    },
+    {
+        "id_artwork": 577,
+        "name": "big",
+        "style": "professional",
+        "format": "hundred",
+        "year_create": 1975,
+        "id_author": 833
+    },
+    {
+        "id_artwork": 578,
+        "name": "detail",
+        "style": "number",
+        "format": "both",
+        "year_create": 1994,
+        "id_author": 821
+    },
+    {
+        "id_artwork": 579,
+        "name": "exactly",
+        "style": "this",
+        "format": "artist",
+        "year_create": 2013,
+        "id_author": 664
+    },
+    {
+        "id_artwork": 580,
+        "name": "summer",
+        "style": "state",
+        "format": "traditional",
+        "year_create": 1977,
+        "id_author": 686
+    },
+    {
+        "id_artwork": 581,
+        "name": "approach",
+        "style": "to",
+        "format": "voice",
+        "year_create": 2019,
+        "id_author": 487
+    },
+    {
+        "id_artwork": 582,
+        "name": "card",
+        "style": "sound",
+        "format": "beat",
+        "year_create": 1997,
+        "id_author": 730
+    },
+    {
+        "id_artwork": 583,
+        "name": "parent",
+        "style": "third",
+        "format": "whole",
+        "year_create": 1999,
+        "id_author": 368
+    },
+    {
+        "id_artwork": 584,
+        "name": "pattern",
+        "style": "guess",
+        "format": "list",
+        "year_create": 1998,
+        "id_author": 661
+    },
+    {
+        "id_artwork": 585,
+        "name": "ball",
+        "style": "moment",
+        "format": "big",
+        "year_create": 1997,
+        "id_author": 393
+    },
+    {
+        "id_artwork": 586,
+        "name": "letter",
+        "style": "them",
+        "format": "town",
+        "year_create": 1978,
+        "id_author": 288
+    },
+    {
+        "id_artwork": 587,
+        "name": "at",
+        "style": "wrong",
+        "format": "decide",
+        "year_create": 1999,
+        "id_author": 829
+    },
+    {
+        "id_artwork": 588,
+        "name": "born",
+        "style": "of",
+        "format": "medical",
+        "year_create": 2013,
+        "id_author": 205
+    },
+    {
+        "id_artwork": 589,
+        "name": "performance",
+        "style": "fear",
+        "format": "few",
+        "year_create": 1975,
+        "id_author": 110
+    },
+    {
+        "id_artwork": 590,
+        "name": "run",
+        "style": "go",
+        "format": "production",
+        "year_create": 2003,
+        "id_author": 843
+    },
+    {
+        "id_artwork": 591,
+        "name": "easy",
+        "style": "under",
+        "format": "movie",
+        "year_create": 2020,
+        "id_author": 973
+    },
+    {
+        "id_artwork": 592,
+        "name": "happy",
+        "style": "current",
+        "format": "once",
+        "year_create": 1983,
+        "id_author": 280
+    },
+    {
+        "id_artwork": 593,
+        "name": "herself",
+        "style": "lay",
+        "format": "require",
+        "year_create": 1972,
+        "id_author": 800
+    },
+    {
+        "id_artwork": 594,
+        "name": "though",
+        "style": "now",
+        "format": "political",
+        "year_create": 1983,
+        "id_author": 100
+    },
+    {
+        "id_artwork": 595,
+        "name": "water",
+        "style": "memory",
+        "format": "medical",
+        "year_create": 2022,
+        "id_author": 93
+    },
+    {
+        "id_artwork": 596,
+        "name": "follow",
+        "style": "professional",
+        "format": "design",
+        "year_create": 1982,
+        "id_author": 277
+    },
+    {
+        "id_artwork": 597,
+        "name": "though",
+        "style": "conference",
+        "format": "church",
+        "year_create": 2021,
+        "id_author": 8
+    },
+    {
+        "id_artwork": 598,
+        "name": "science",
+        "style": "experience",
+        "format": "eye",
+        "year_create": 2021,
+        "id_author": 25
+    },
+    {
+        "id_artwork": 599,
+        "name": "often",
+        "style": "leave",
+        "format": "magazine",
+        "year_create": 2008,
+        "id_author": 728
+    },
+    {
+        "id_artwork": 600,
+        "name": "painting",
+        "style": "front",
+        "format": "research",
+        "year_create": 1996,
+        "id_author": 239
+    },
+    {
+        "id_artwork": 601,
+        "name": "speak",
+        "style": "PM",
+        "format": "voice",
+        "year_create": 1991,
+        "id_author": 41
+    },
+    {
+        "id_artwork": 602,
+        "name": "cultural",
+        "style": "somebody",
+        "format": "large",
+        "year_create": 2021,
+        "id_author": 120
+    },
+    {
+        "id_artwork": 603,
+        "name": "west",
+        "style": "have",
+        "format": "identify",
+        "year_create": 2017,
+        "id_author": 299
+    },
+    {
+        "id_artwork": 604,
+        "name": "town",
+        "style": "education",
+        "format": "indeed",
+        "year_create": 1985,
+        "id_author": 43
+    },
+    {
+        "id_artwork": 605,
+        "name": "herself",
+        "style": "writer",
+        "format": "analysis",
+        "year_create": 1986,
+        "id_author": 951
+    },
+    {
+        "id_artwork": 606,
+        "name": "section",
+        "style": "see",
+        "format": "interview",
+        "year_create": 1998,
+        "id_author": 174
+    },
+    {
+        "id_artwork": 607,
+        "name": "stuff",
+        "style": "wide",
+        "format": "fund",
+        "year_create": 1978,
+        "id_author": 946
+    },
+    {
+        "id_artwork": 608,
+        "name": "question",
+        "style": "require",
+        "format": "prevent",
+        "year_create": 1970,
+        "id_author": 497
+    },
+    {
+        "id_artwork": 609,
+        "name": "rise",
+        "style": "consider",
+        "format": "available",
+        "year_create": 2016,
+        "id_author": 456
+    },
+    {
+        "id_artwork": 610,
+        "name": "six",
+        "style": "happy",
+        "format": "fish",
+        "year_create": 2000,
+        "id_author": 149
+    },
+    {
+        "id_artwork": 611,
+        "name": "word",
+        "style": "entire",
+        "format": "many",
+        "year_create": 1995,
+        "id_author": 250
+    },
+    {
+        "id_artwork": 612,
+        "name": "food",
+        "style": "growth",
+        "format": "still",
+        "year_create": 1980,
+        "id_author": 288
+    },
+    {
+        "id_artwork": 613,
+        "name": "specific",
+        "style": "age",
+        "format": "third",
+        "year_create": 2012,
+        "id_author": 881
+    },
+    {
+        "id_artwork": 614,
+        "name": "while",
+        "style": "little",
+        "format": "include",
+        "year_create": 1988,
+        "id_author": 939
+    },
+    {
+        "id_artwork": 615,
+        "name": "fund",
+        "style": "we",
+        "format": "just",
+        "year_create": 2014,
+        "id_author": 313
+    },
+    {
+        "id_artwork": 616,
+        "name": "speak",
+        "style": "red",
+        "format": "gas",
+        "year_create": 2014,
+        "id_author": 23
+    },
+    {
+        "id_artwork": 617,
+        "name": "garden",
+        "style": "article",
+        "format": "every",
+        "year_create": 2009,
+        "id_author": 953
+    },
+    {
+        "id_artwork": 618,
+        "name": "teach",
+        "style": "country",
+        "format": "local",
+        "year_create": 2013,
+        "id_author": 913
+    },
+    {
+        "id_artwork": 619,
+        "name": "other",
+        "style": "whom",
+        "format": "moment",
+        "year_create": 1995,
+        "id_author": 119
+    },
+    {
+        "id_artwork": 620,
+        "name": "her",
+        "style": "none",
+        "format": "hour",
+        "year_create": 1987,
+        "id_author": 689
+    },
+    {
+        "id_artwork": 621,
+        "name": "large",
+        "style": "hope",
+        "format": "government",
+        "year_create": 2000,
+        "id_author": 660
+    },
+    {
+        "id_artwork": 622,
+        "name": "force",
+        "style": "behavior",
+        "format": "discussion",
+        "year_create": 1990,
+        "id_author": 529
+    },
+    {
+        "id_artwork": 623,
+        "name": "game",
+        "style": "tell",
+        "format": "car",
+        "year_create": 2020,
+        "id_author": 203
+    },
+    {
+        "id_artwork": 624,
+        "name": "sign",
+        "style": "fact",
+        "format": "rest",
+        "year_create": 2018,
+        "id_author": 41
+    },
+    {
+        "id_artwork": 625,
+        "name": "final",
+        "style": "with",
+        "format": "theory",
+        "year_create": 1975,
+        "id_author": 266
+    },
+    {
+        "id_artwork": 626,
+        "name": "hit",
+        "style": "assume",
+        "format": "fine",
+        "year_create": 2015,
+        "id_author": 163
+    },
+    {
+        "id_artwork": 627,
+        "name": "process",
+        "style": "meet",
+        "format": "fear",
+        "year_create": 2003,
+        "id_author": 527
+    },
+    {
+        "id_artwork": 628,
+        "name": "fill",
+        "style": "national",
+        "format": "ok",
+        "year_create": 2022,
+        "id_author": 761
+    },
+    {
+        "id_artwork": 629,
+        "name": "forward",
+        "style": "might",
+        "format": "their",
+        "year_create": 1987,
+        "id_author": 506
+    },
+    {
+        "id_artwork": 630,
+        "name": "simple",
+        "style": "institution",
+        "format": "specific",
+        "year_create": 1979,
+        "id_author": 344
+    },
+    {
+        "id_artwork": 631,
+        "name": "debate",
+        "style": "in",
+        "format": "morning",
+        "year_create": 1982,
+        "id_author": 379
+    },
+    {
+        "id_artwork": 632,
+        "name": "lose",
+        "style": "former",
+        "format": "clearly",
+        "year_create": 1975,
+        "id_author": 586
+    },
+    {
+        "id_artwork": 633,
+        "name": "nothing",
+        "style": "worry",
+        "format": "small",
+        "year_create": 2023,
+        "id_author": 919
+    },
+    {
+        "id_artwork": 634,
+        "name": "with",
+        "style": "pretty",
+        "format": "thing",
+        "year_create": 2001,
+        "id_author": 35
+    },
+    {
+        "id_artwork": 635,
+        "name": "onto",
+        "style": "whole",
+        "format": "example",
+        "year_create": 1992,
+        "id_author": 375
+    },
+    {
+        "id_artwork": 636,
+        "name": "care",
+        "style": "stuff",
+        "format": "third",
+        "year_create": 1992,
+        "id_author": 748
+    },
+    {
+        "id_artwork": 637,
+        "name": "light",
+        "style": "responsibility",
+        "format": "first",
+        "year_create": 2004,
+        "id_author": 125
+    },
+    {
+        "id_artwork": 638,
+        "name": "usually",
+        "style": "country",
+        "format": "provide",
+        "year_create": 1974,
+        "id_author": 132
+    },
+    {
+        "id_artwork": 639,
+        "name": "specific",
+        "style": "from",
+        "format": "scene",
+        "year_create": 2004,
+        "id_author": 937
+    },
+    {
+        "id_artwork": 640,
+        "name": "sign",
+        "style": "benefit",
+        "format": "her",
+        "year_create": 2011,
+        "id_author": 450
+    },
+    {
+        "id_artwork": 641,
+        "name": "main",
+        "style": "financial",
+        "format": "step",
+        "year_create": 1991,
+        "id_author": 375
+    },
+    {
+        "id_artwork": 642,
+        "name": "maintain",
+        "style": "create",
+        "format": "environment",
+        "year_create": 1992,
+        "id_author": 35
+    },
+    {
+        "id_artwork": 643,
+        "name": "recognize",
+        "style": "bring",
+        "format": "research",
+        "year_create": 1978,
+        "id_author": 875
+    },
+    {
+        "id_artwork": 644,
+        "name": "growth",
+        "style": "analysis",
+        "format": "truth",
+        "year_create": 1991,
+        "id_author": 265
+    },
+    {
+        "id_artwork": 645,
+        "name": "art",
+        "style": "over",
+        "format": "truth",
+        "year_create": 1973,
+        "id_author": 725
+    },
+    {
+        "id_artwork": 646,
+        "name": "by",
+        "style": "yourself",
+        "format": "from",
+        "year_create": 2018,
+        "id_author": 981
+    },
+    {
+        "id_artwork": 647,
+        "name": "trouble",
+        "style": "tax",
+        "format": "husband",
+        "year_create": 1989,
+        "id_author": 754
+    },
+    {
+        "id_artwork": 648,
+        "name": "through",
+        "style": "more",
+        "format": "along",
+        "year_create": 1988,
+        "id_author": 474
+    },
+    {
+        "id_artwork": 649,
+        "name": "rise",
+        "style": "investment",
+        "format": "detail",
+        "year_create": 1972,
+        "id_author": 981
+    },
+    {
+        "id_artwork": 650,
+        "name": "kind",
+        "style": "skin",
+        "format": "operation",
+        "year_create": 1982,
+        "id_author": 974
+    },
+    {
+        "id_artwork": 651,
+        "name": "put",
+        "style": "magazine",
+        "format": "world",
+        "year_create": 1991,
+        "id_author": 168
+    },
+    {
+        "id_artwork": 652,
+        "name": "movie",
+        "style": "station",
+        "format": "name",
+        "year_create": 2019,
+        "id_author": 82
+    },
+    {
+        "id_artwork": 653,
+        "name": "significant",
+        "style": "stop",
+        "format": "along",
+        "year_create": 1998,
+        "id_author": 479
+    },
+    {
+        "id_artwork": 654,
+        "name": "gun",
+        "style": "religious",
+        "format": "spend",
+        "year_create": 2013,
+        "id_author": 365
+    },
+    {
+        "id_artwork": 655,
+        "name": "condition",
+        "style": "plant",
+        "format": "charge",
+        "year_create": 1976,
+        "id_author": 191
+    },
+    {
+        "id_artwork": 656,
+        "name": "marriage",
+        "style": "order",
+        "format": "sing",
+        "year_create": 1992,
+        "id_author": 578
+    },
+    {
+        "id_artwork": 657,
+        "name": "tell",
+        "style": "claim",
+        "format": "green",
+        "year_create": 1988,
+        "id_author": 637
+    },
+    {
+        "id_artwork": 658,
+        "name": "traditional",
+        "style": "picture",
+        "format": "large",
+        "year_create": 1992,
+        "id_author": 858
+    },
+    {
+        "id_artwork": 659,
+        "name": "crime",
+        "style": "subject",
+        "format": "born",
+        "year_create": 1982,
+        "id_author": 38
+    },
+    {
+        "id_artwork": 660,
+        "name": "we",
+        "style": "enjoy",
+        "format": "system",
+        "year_create": 1983,
+        "id_author": 25
+    },
+    {
+        "id_artwork": 661,
+        "name": "kitchen",
+        "style": "cell",
+        "format": "support",
+        "year_create": 1999,
+        "id_author": 348
+    },
+    {
+        "id_artwork": 662,
+        "name": "stay",
+        "style": "suddenly",
+        "format": "up",
+        "year_create": 1986,
+        "id_author": 780
+    },
+    {
+        "id_artwork": 663,
+        "name": "remember",
+        "style": "perform",
+        "format": "case",
+        "year_create": 2021,
+        "id_author": 999
+    },
+    {
+        "id_artwork": 664,
+        "name": "wide",
+        "style": "respond",
+        "format": "information",
+        "year_create": 1971,
+        "id_author": 612
+    },
+    {
+        "id_artwork": 665,
+        "name": "participant",
+        "style": "recent",
+        "format": "remember",
+        "year_create": 1997,
+        "id_author": 937
+    },
+    {
+        "id_artwork": 666,
+        "name": "him",
+        "style": "see",
+        "format": "record",
+        "year_create": 1997,
+        "id_author": 616
+    },
+    {
+        "id_artwork": 667,
+        "name": "plan",
+        "style": "music",
+        "format": "determine",
+        "year_create": 2008,
+        "id_author": 981
+    },
+    {
+        "id_artwork": 668,
+        "name": "speak",
+        "style": "seven",
+        "format": "step",
+        "year_create": 2008,
+        "id_author": 630
+    },
+    {
+        "id_artwork": 669,
+        "name": "another",
+        "style": "crime",
+        "format": "near",
+        "year_create": 2006,
+        "id_author": 525
+    },
+    {
+        "id_artwork": 670,
+        "name": "strategy",
+        "style": "specific",
+        "format": "view",
+        "year_create": 1991,
+        "id_author": 788
+    },
+    {
+        "id_artwork": 671,
+        "name": "policy",
+        "style": "charge",
+        "format": "traditional",
+        "year_create": 1991,
+        "id_author": 731
+    },
+    {
+        "id_artwork": 672,
+        "name": "red",
+        "style": "bring",
+        "format": "successful",
+        "year_create": 2004,
+        "id_author": 695
+    },
+    {
+        "id_artwork": 673,
+        "name": "reflect",
+        "style": "small",
+        "format": "you",
+        "year_create": 2012,
+        "id_author": 510
+    },
+    {
+        "id_artwork": 674,
+        "name": "soon",
+        "style": "those",
+        "format": "perhaps",
+        "year_create": 2023,
+        "id_author": 880
+    },
+    {
+        "id_artwork": 675,
+        "name": "whose",
+        "style": "city",
+        "format": "effort",
+        "year_create": 2005,
+        "id_author": 813
+    },
+    {
+        "id_artwork": 676,
+        "name": "herself",
+        "style": "create",
+        "format": "president",
+        "year_create": 1984,
+        "id_author": 643
+    },
+    {
+        "id_artwork": 677,
+        "name": "health",
+        "style": "role",
+        "format": "free",
+        "year_create": 2000,
+        "id_author": 491
+    },
+    {
+        "id_artwork": 678,
+        "name": "analysis",
+        "style": "protect",
+        "format": "north",
+        "year_create": 1979,
+        "id_author": 484
+    },
+    {
+        "id_artwork": 679,
+        "name": "more",
+        "style": "another",
+        "format": "sign",
+        "year_create": 1972,
+        "id_author": 734
+    },
+    {
+        "id_artwork": 680,
+        "name": "institution",
+        "style": "then",
+        "format": "whom",
+        "year_create": 2020,
+        "id_author": 726
+    },
+    {
+        "id_artwork": 681,
+        "name": "card",
+        "style": "long",
+        "format": "scientist",
+        "year_create": 2010,
+        "id_author": 320
+    },
+    {
+        "id_artwork": 682,
+        "name": "audience",
+        "style": "green",
+        "format": "fish",
+        "year_create": 2017,
+        "id_author": 428
+    },
+    {
+        "id_artwork": 683,
+        "name": "book",
+        "style": "what",
+        "format": "early",
+        "year_create": 2007,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 684,
+        "name": "history",
+        "style": "the",
+        "format": "issue",
+        "year_create": 1997,
+        "id_author": 416
+    },
+    {
+        "id_artwork": 685,
+        "name": "who",
+        "style": "see",
+        "format": "industry",
+        "year_create": 2002,
+        "id_author": 8
+    },
+    {
+        "id_artwork": 686,
+        "name": "best",
+        "style": "yourself",
+        "format": "ability",
+        "year_create": 1971,
+        "id_author": 26
+    },
+    {
+        "id_artwork": 687,
+        "name": "result",
+        "style": "standard",
+        "format": "region",
+        "year_create": 2014,
+        "id_author": 343
+    },
+    {
+        "id_artwork": 688,
+        "name": "ten",
+        "style": "institution",
+        "format": "industry",
+        "year_create": 1997,
+        "id_author": 101
+    },
+    {
+        "id_artwork": 689,
+        "name": "three",
+        "style": "who",
+        "format": "fill",
+        "year_create": 2023,
+        "id_author": 540
+    },
+    {
+        "id_artwork": 690,
+        "name": "piece",
+        "style": "everybody",
+        "format": "fast",
+        "year_create": 2014,
+        "id_author": 528
+    },
+    {
+        "id_artwork": 691,
+        "name": "past",
+        "style": "apply",
+        "format": "month",
+        "year_create": 1970,
+        "id_author": 705
+    },
+    {
+        "id_artwork": 692,
+        "name": "hold",
+        "style": "rather",
+        "format": "whatever",
+        "year_create": 2009,
+        "id_author": 501
+    },
+    {
+        "id_artwork": 693,
+        "name": "system",
+        "style": "share",
+        "format": "security",
+        "year_create": 1978,
+        "id_author": 227
+    },
+    {
+        "id_artwork": 694,
+        "name": "tell",
+        "style": "pressure",
+        "format": "catch",
+        "year_create": 1987,
+        "id_author": 721
+    },
+    {
+        "id_artwork": 695,
+        "name": "deep",
+        "style": "join",
+        "format": "table",
+        "year_create": 1987,
+        "id_author": 276
+    },
+    {
+        "id_artwork": 696,
+        "name": "involve",
+        "style": "long",
+        "format": "ago",
+        "year_create": 2011,
+        "id_author": 247
+    },
+    {
+        "id_artwork": 697,
+        "name": "tend",
+        "style": "catch",
+        "format": "power",
+        "year_create": 2014,
+        "id_author": 970
+    },
+    {
+        "id_artwork": 698,
+        "name": "back",
+        "style": "class",
+        "format": "toward",
+        "year_create": 2003,
+        "id_author": 705
+    },
+    {
+        "id_artwork": 699,
+        "name": "from",
+        "style": "year",
+        "format": "kitchen",
+        "year_create": 2008,
+        "id_author": 751
+    },
+    {
+        "id_artwork": 700,
+        "name": "Mrs",
+        "style": "hospital",
+        "format": "building",
+        "year_create": 1970,
+        "id_author": 585
+    },
+    {
+        "id_artwork": 701,
+        "name": "up",
+        "style": "little",
+        "format": "rise",
+        "year_create": 1985,
+        "id_author": 350
+    },
+    {
+        "id_artwork": 702,
+        "name": "would",
+        "style": "effect",
+        "format": "network",
+        "year_create": 1979,
+        "id_author": 313
+    },
+    {
+        "id_artwork": 703,
+        "name": "democratic",
+        "style": "catch",
+        "format": "bed",
+        "year_create": 2011,
+        "id_author": 710
+    },
+    {
+        "id_artwork": 704,
+        "name": "best",
+        "style": "million",
+        "format": "PM",
+        "year_create": 1995,
+        "id_author": 714
+    },
+    {
+        "id_artwork": 705,
+        "name": "book",
+        "style": "product",
+        "format": "enjoy",
+        "year_create": 2018,
+        "id_author": 538
+    },
+    {
+        "id_artwork": 706,
+        "name": "common",
+        "style": "attack",
+        "format": "start",
+        "year_create": 2021,
+        "id_author": 695
+    },
+    {
+        "id_artwork": 707,
+        "name": "wall",
+        "style": "above",
+        "format": "individual",
+        "year_create": 2015,
+        "id_author": 644
+    },
+    {
+        "id_artwork": 708,
+        "name": "end",
+        "style": "prepare",
+        "format": "training",
+        "year_create": 1979,
+        "id_author": 104
+    },
+    {
+        "id_artwork": 709,
+        "name": "agreement",
+        "style": "what",
+        "format": "political",
+        "year_create": 2019,
+        "id_author": 216
+    },
+    {
+        "id_artwork": 710,
+        "name": "policy",
+        "style": "need",
+        "format": "push",
+        "year_create": 1972,
+        "id_author": 702
+    },
+    {
+        "id_artwork": 711,
+        "name": "woman",
+        "style": "memory",
+        "format": "however",
+        "year_create": 2010,
+        "id_author": 828
+    },
+    {
+        "id_artwork": 712,
+        "name": "road",
+        "style": "must",
+        "format": "feeling",
+        "year_create": 1972,
+        "id_author": 814
+    },
+    {
+        "id_artwork": 713,
+        "name": "look",
+        "style": "ago",
+        "format": "better",
+        "year_create": 1985,
+        "id_author": 210
+    },
+    {
+        "id_artwork": 714,
+        "name": "something",
+        "style": "suddenly",
+        "format": "her",
+        "year_create": 1976,
+        "id_author": 265
+    },
+    {
+        "id_artwork": 715,
+        "name": "door",
+        "style": "hospital",
+        "format": "decide",
+        "year_create": 2019,
+        "id_author": 413
+    },
+    {
+        "id_artwork": 716,
+        "name": "check",
+        "style": "unit",
+        "format": "that",
+        "year_create": 2004,
+        "id_author": 166
+    },
+    {
+        "id_artwork": 717,
+        "name": "figure",
+        "style": "nation",
+        "format": "fish",
+        "year_create": 1970,
+        "id_author": 520
+    },
+    {
+        "id_artwork": 718,
+        "name": "still",
+        "style": "institution",
+        "format": "some",
+        "year_create": 2005,
+        "id_author": 841
+    },
+    {
+        "id_artwork": 719,
+        "name": "data",
+        "style": "its",
+        "format": "somebody",
+        "year_create": 2018,
+        "id_author": 361
+    },
+    {
+        "id_artwork": 720,
+        "name": "marriage",
+        "style": "opportunity",
+        "format": "represent",
+        "year_create": 2008,
+        "id_author": 676
+    },
+    {
+        "id_artwork": 721,
+        "name": "air",
+        "style": "claim",
+        "format": "draw",
+        "year_create": 2019,
+        "id_author": 998
+    },
+    {
+        "id_artwork": 722,
+        "name": "rate",
+        "style": "school",
+        "format": "finally",
+        "year_create": 1994,
+        "id_author": 200
+    },
+    {
+        "id_artwork": 723,
+        "name": "whether",
+        "style": "just",
+        "format": "more",
+        "year_create": 1997,
+        "id_author": 316
+    },
+    {
+        "id_artwork": 724,
+        "name": "have",
+        "style": "government",
+        "format": "story",
+        "year_create": 2015,
+        "id_author": 296
+    },
+    {
+        "id_artwork": 725,
+        "name": "effort",
+        "style": "attack",
+        "format": "goal",
+        "year_create": 2013,
+        "id_author": 422
+    },
+    {
+        "id_artwork": 726,
+        "name": "during",
+        "style": "citizen",
+        "format": "age",
+        "year_create": 2014,
+        "id_author": 557
+    },
+    {
+        "id_artwork": 727,
+        "name": "section",
+        "style": "fly",
+        "format": "against",
+        "year_create": 1978,
+        "id_author": 388
+    },
+    {
+        "id_artwork": 728,
+        "name": "nothing",
+        "style": "involve",
+        "format": "store",
+        "year_create": 2016,
+        "id_author": 268
+    },
+    {
+        "id_artwork": 729,
+        "name": "north",
+        "style": "there",
+        "format": "against",
+        "year_create": 1993,
+        "id_author": 517
+    },
+    {
+        "id_artwork": 730,
+        "name": "actually",
+        "style": "stop",
+        "format": "light",
+        "year_create": 1997,
+        "id_author": 768
+    },
+    {
+        "id_artwork": 731,
+        "name": "inside",
+        "style": "light",
+        "format": "arrive",
+        "year_create": 1991,
+        "id_author": 905
+    },
+    {
+        "id_artwork": 732,
+        "name": "let",
+        "style": "color",
+        "format": "behavior",
+        "year_create": 2021,
+        "id_author": 934
+    },
+    {
+        "id_artwork": 733,
+        "name": "whose",
+        "style": "feel",
+        "format": "join",
+        "year_create": 2005,
+        "id_author": 27
+    },
+    {
+        "id_artwork": 734,
+        "name": "life",
+        "style": "individual",
+        "format": "ago",
+        "year_create": 2019,
+        "id_author": 617
+    },
+    {
+        "id_artwork": 735,
+        "name": "wish",
+        "style": "matter",
+        "format": "hospital",
+        "year_create": 2011,
+        "id_author": 118
+    },
+    {
+        "id_artwork": 736,
+        "name": "although",
+        "style": "cost",
+        "format": "she",
+        "year_create": 2002,
+        "id_author": 483
+    },
+    {
+        "id_artwork": 737,
+        "name": "outside",
+        "style": "tax",
+        "format": "purpose",
+        "year_create": 1973,
+        "id_author": 218
+    },
+    {
+        "id_artwork": 738,
+        "name": "develop",
+        "style": "seven",
+        "format": "deal",
+        "year_create": 1971,
+        "id_author": 90
+    },
+    {
+        "id_artwork": 739,
+        "name": "them",
+        "style": "example",
+        "format": "Mr",
+        "year_create": 2005,
+        "id_author": 340
+    },
+    {
+        "id_artwork": 740,
+        "name": "benefit",
+        "style": "small",
+        "format": "dream",
+        "year_create": 1998,
+        "id_author": 500
+    },
+    {
+        "id_artwork": 741,
+        "name": "finish",
+        "style": "because",
+        "format": "happen",
+        "year_create": 1970,
+        "id_author": 50
+    },
+    {
+        "id_artwork": 742,
+        "name": "away",
+        "style": "mouth",
+        "format": "movement",
+        "year_create": 1993,
+        "id_author": 542
+    },
+    {
+        "id_artwork": 743,
+        "name": "these",
+        "style": "what",
+        "format": "it",
+        "year_create": 1976,
+        "id_author": 360
+    },
+    {
+        "id_artwork": 744,
+        "name": "happy",
+        "style": "sell",
+        "format": "understand",
+        "year_create": 1973,
+        "id_author": 699
+    },
+    {
+        "id_artwork": 745,
+        "name": "live",
+        "style": "instead",
+        "format": "natural",
+        "year_create": 2007,
+        "id_author": 658
+    },
+    {
+        "id_artwork": 746,
+        "name": "send",
+        "style": "offer",
+        "format": "laugh",
+        "year_create": 2014,
+        "id_author": 23
+    },
+    {
+        "id_artwork": 747,
+        "name": "last",
+        "style": "over",
+        "format": "another",
+        "year_create": 2013,
+        "id_author": 841
+    },
+    {
+        "id_artwork": 748,
+        "name": "get",
+        "style": "standard",
+        "format": "dark",
+        "year_create": 1993,
+        "id_author": 761
+    },
+    {
+        "id_artwork": 749,
+        "name": "surface",
+        "style": "history",
+        "format": "start",
+        "year_create": 1996,
+        "id_author": 269
+    },
+    {
+        "id_artwork": 750,
+        "name": "need",
+        "style": "method",
+        "format": "letter",
+        "year_create": 2011,
+        "id_author": 326
+    },
+    {
+        "id_artwork": 751,
+        "name": "near",
+        "style": "close",
+        "format": "pattern",
+        "year_create": 1986,
+        "id_author": 983
+    },
+    {
+        "id_artwork": 752,
+        "name": "nation",
+        "style": "least",
+        "format": "son",
+        "year_create": 1977,
+        "id_author": 358
+    },
+    {
+        "id_artwork": 753,
+        "name": "rest",
+        "style": "often",
+        "format": "bill",
+        "year_create": 1979,
+        "id_author": 341
+    },
+    {
+        "id_artwork": 754,
+        "name": "movement",
+        "style": "career",
+        "format": "talk",
+        "year_create": 2013,
+        "id_author": 977
+    },
+    {
+        "id_artwork": 755,
+        "name": "prevent",
+        "style": "want",
+        "format": "nothing",
+        "year_create": 1992,
+        "id_author": 896
+    },
+    {
+        "id_artwork": 756,
+        "name": "president",
+        "style": "agent",
+        "format": "open",
+        "year_create": 2007,
+        "id_author": 841
+    },
+    {
+        "id_artwork": 757,
+        "name": "treatment",
+        "style": "class",
+        "format": "include",
+        "year_create": 1999,
+        "id_author": 775
+    },
+    {
+        "id_artwork": 758,
+        "name": "over",
+        "style": "office",
+        "format": "member",
+        "year_create": 2023,
+        "id_author": 183
+    },
+    {
+        "id_artwork": 759,
+        "name": "recognize",
+        "style": "manage",
+        "format": "lay",
+        "year_create": 1984,
+        "id_author": 510
+    },
+    {
+        "id_artwork": 760,
+        "name": "color",
+        "style": "east",
+        "format": "behavior",
+        "year_create": 1977,
+        "id_author": 968
+    },
+    {
+        "id_artwork": 761,
+        "name": "partner",
+        "style": "return",
+        "format": "instead",
+        "year_create": 1974,
+        "id_author": 210
+    },
+    {
+        "id_artwork": 762,
+        "name": "yeah",
+        "style": "think",
+        "format": "traditional",
+        "year_create": 1981,
+        "id_author": 609
+    },
+    {
+        "id_artwork": 763,
+        "name": "early",
+        "style": "baby",
+        "format": "peace",
+        "year_create": 1989,
+        "id_author": 173
+    },
+    {
+        "id_artwork": 764,
+        "name": "analysis",
+        "style": "tend",
+        "format": "show",
+        "year_create": 1989,
+        "id_author": 325
+    },
+    {
+        "id_artwork": 765,
+        "name": "ten",
+        "style": "customer",
+        "format": "our",
+        "year_create": 2001,
+        "id_author": 450
+    },
+    {
+        "id_artwork": 766,
+        "name": "machine",
+        "style": "order",
+        "format": "measure",
+        "year_create": 2015,
+        "id_author": 24
+    },
+    {
+        "id_artwork": 767,
+        "name": "land",
+        "style": "travel",
+        "format": "cover",
+        "year_create": 1980,
+        "id_author": 879
+    },
+    {
+        "id_artwork": 768,
+        "name": "peace",
+        "style": "attack",
+        "format": "up",
+        "year_create": 1991,
+        "id_author": 73
+    },
+    {
+        "id_artwork": 769,
+        "name": "head",
+        "style": "month",
+        "format": "together",
+        "year_create": 2020,
+        "id_author": 234
+    },
+    {
+        "id_artwork": 770,
+        "name": "yourself",
+        "style": "after",
+        "format": "technology",
+        "year_create": 1997,
+        "id_author": 839
+    },
+    {
+        "id_artwork": 771,
+        "name": "use",
+        "style": "be",
+        "format": "evening",
+        "year_create": 2022,
+        "id_author": 954
+    },
+    {
+        "id_artwork": 772,
+        "name": "very",
+        "style": "he",
+        "format": "certain",
+        "year_create": 1974,
+        "id_author": 162
+    },
+    {
+        "id_artwork": 773,
+        "name": "interest",
+        "style": "born",
+        "format": "husband",
+        "year_create": 2011,
+        "id_author": 725
+    },
+    {
+        "id_artwork": 774,
+        "name": "relationship",
+        "style": "start",
+        "format": "commercial",
+        "year_create": 2021,
+        "id_author": 470
+    },
+    {
+        "id_artwork": 775,
+        "name": "free",
+        "style": "method",
+        "format": "easy",
+        "year_create": 1976,
+        "id_author": 446
+    },
+    {
+        "id_artwork": 776,
+        "name": "opportunity",
+        "style": "speak",
+        "format": "medical",
+        "year_create": 1977,
+        "id_author": 596
+    },
+    {
+        "id_artwork": 777,
+        "name": "yes",
+        "style": "center",
+        "format": "oil",
+        "year_create": 1977,
+        "id_author": 826
+    },
+    {
+        "id_artwork": 778,
+        "name": "case",
+        "style": "notice",
+        "format": "still",
+        "year_create": 1999,
+        "id_author": 979
+    },
+    {
+        "id_artwork": 779,
+        "name": "practice",
+        "style": "else",
+        "format": "good",
+        "year_create": 1993,
+        "id_author": 106
+    },
+    {
+        "id_artwork": 780,
+        "name": "subject",
+        "style": "degree",
+        "format": "beat",
+        "year_create": 2014,
+        "id_author": 857
+    },
+    {
+        "id_artwork": 781,
+        "name": "part",
+        "style": "these",
+        "format": "table",
+        "year_create": 1970,
+        "id_author": 431
+    },
+    {
+        "id_artwork": 782,
+        "name": "majority",
+        "style": "window",
+        "format": "why",
+        "year_create": 2014,
+        "id_author": 601
+    },
+    {
+        "id_artwork": 783,
+        "name": "stage",
+        "style": "worry",
+        "format": "that",
+        "year_create": 2002,
+        "id_author": 790
+    },
+    {
+        "id_artwork": 784,
+        "name": "up",
+        "style": "expert",
+        "format": "many",
+        "year_create": 1984,
+        "id_author": 643
+    },
+    {
+        "id_artwork": 785,
+        "name": "stage",
+        "style": "natural",
+        "format": "interesting",
+        "year_create": 2023,
+        "id_author": 688
+    },
+    {
+        "id_artwork": 786,
+        "name": "Republican",
+        "style": "glass",
+        "format": "mother",
+        "year_create": 2006,
+        "id_author": 862
+    },
+    {
+        "id_artwork": 787,
+        "name": "word",
+        "style": "source",
+        "format": "these",
+        "year_create": 2010,
+        "id_author": 351
+    },
+    {
+        "id_artwork": 788,
+        "name": "end",
+        "style": "opportunity",
+        "format": "room",
+        "year_create": 2009,
+        "id_author": 210
+    },
+    {
+        "id_artwork": 789,
+        "name": "question",
+        "style": "significant",
+        "format": "ok",
+        "year_create": 1996,
+        "id_author": 163
+    },
+    {
+        "id_artwork": 790,
+        "name": "hair",
+        "style": "girl",
+        "format": "everything",
+        "year_create": 2006,
+        "id_author": 675
+    },
+    {
+        "id_artwork": 791,
+        "name": "voice",
+        "style": "college",
+        "format": "bank",
+        "year_create": 2021,
+        "id_author": 377
+    },
+    {
+        "id_artwork": 792,
+        "name": "money",
+        "style": "difficult",
+        "format": "kid",
+        "year_create": 2003,
+        "id_author": 763
+    },
+    {
+        "id_artwork": 793,
+        "name": "service",
+        "style": "difficult",
+        "format": "pressure",
+        "year_create": 2016,
+        "id_author": 859
+    },
+    {
+        "id_artwork": 794,
+        "name": "world",
+        "style": "son",
+        "format": "recent",
+        "year_create": 2002,
+        "id_author": 3
+    },
+    {
+        "id_artwork": 795,
+        "name": "few",
+        "style": "under",
+        "format": "strategy",
+        "year_create": 1973,
+        "id_author": 219
+    },
+    {
+        "id_artwork": 796,
+        "name": "health",
+        "style": "others",
+        "format": "chance",
+        "year_create": 1974,
+        "id_author": 260
+    },
+    {
+        "id_artwork": 797,
+        "name": "dream",
+        "style": "response",
+        "format": "local",
+        "year_create": 1996,
+        "id_author": 828
+    },
+    {
+        "id_artwork": 798,
+        "name": "military",
+        "style": "road",
+        "format": "challenge",
+        "year_create": 2005,
+        "id_author": 801
+    },
+    {
+        "id_artwork": 799,
+        "name": "large",
+        "style": "large",
+        "format": "guess",
+        "year_create": 1998,
+        "id_author": 120
+    },
+    {
+        "id_artwork": 800,
+        "name": "fly",
+        "style": "hold",
+        "format": "support",
+        "year_create": 2018,
+        "id_author": 697
+    },
+    {
+        "id_artwork": 801,
+        "name": "event",
+        "style": "direction",
+        "format": "interview",
+        "year_create": 1976,
+        "id_author": 531
+    },
+    {
+        "id_artwork": 802,
+        "name": "alone",
+        "style": "item",
+        "format": "Democrat",
+        "year_create": 2006,
+        "id_author": 10
+    },
+    {
+        "id_artwork": 803,
+        "name": "pull",
+        "style": "last",
+        "format": "oil",
+        "year_create": 2013,
+        "id_author": 482
+    },
+    {
+        "id_artwork": 804,
+        "name": "seek",
+        "style": "glass",
+        "format": "step",
+        "year_create": 1977,
+        "id_author": 520
+    },
+    {
+        "id_artwork": 805,
+        "name": "red",
+        "style": "goal",
+        "format": "image",
+        "year_create": 1971,
+        "id_author": 362
+    },
+    {
+        "id_artwork": 806,
+        "name": "threat",
+        "style": "certain",
+        "format": "team",
+        "year_create": 2010,
+        "id_author": 692
+    },
+    {
+        "id_artwork": 807,
+        "name": "trip",
+        "style": "level",
+        "format": "kind",
+        "year_create": 1986,
+        "id_author": 735
+    },
+    {
+        "id_artwork": 808,
+        "name": "style",
+        "style": "month",
+        "format": "debate",
+        "year_create": 1990,
+        "id_author": 197
+    },
+    {
+        "id_artwork": 809,
+        "name": "everyone",
+        "style": "spend",
+        "format": "rate",
+        "year_create": 2010,
+        "id_author": 346
+    },
+    {
+        "id_artwork": 810,
+        "name": "music",
+        "style": "audience",
+        "format": "do",
+        "year_create": 1996,
+        "id_author": 163
+    },
+    {
+        "id_artwork": 811,
+        "name": "north",
+        "style": "investment",
+        "format": "line",
+        "year_create": 1984,
+        "id_author": 959
+    },
+    {
+        "id_artwork": 812,
+        "name": "eat",
+        "style": "when",
+        "format": "member",
+        "year_create": 1989,
+        "id_author": 183
+    },
+    {
+        "id_artwork": 813,
+        "name": "weight",
+        "style": "authority",
+        "format": "they",
+        "year_create": 2016,
+        "id_author": 833
+    },
+    {
+        "id_artwork": 814,
+        "name": "decision",
+        "style": "box",
+        "format": "close",
+        "year_create": 1975,
+        "id_author": 757
+    },
+    {
+        "id_artwork": 815,
+        "name": "attack",
+        "style": "skill",
+        "format": "number",
+        "year_create": 1981,
+        "id_author": 848
+    },
+    {
+        "id_artwork": 816,
+        "name": "while",
+        "style": "parent",
+        "format": "marriage",
+        "year_create": 1990,
+        "id_author": 463
+    },
+    {
+        "id_artwork": 817,
+        "name": "suffer",
+        "style": "she",
+        "format": "high",
+        "year_create": 1993,
+        "id_author": 444
+    },
+    {
+        "id_artwork": 818,
+        "name": "production",
+        "style": "those",
+        "format": "significant",
+        "year_create": 2000,
+        "id_author": 282
+    },
+    {
+        "id_artwork": 819,
+        "name": "act",
+        "style": "authority",
+        "format": "wonder",
+        "year_create": 1996,
+        "id_author": 451
+    },
+    {
+        "id_artwork": 820,
+        "name": "explain",
+        "style": "law",
+        "format": "present",
+        "year_create": 2017,
+        "id_author": 589
+    },
+    {
+        "id_artwork": 821,
+        "name": "federal",
+        "style": "radio",
+        "format": "hospital",
+        "year_create": 1985,
+        "id_author": 496
+    },
+    {
+        "id_artwork": 822,
+        "name": "add",
+        "style": "condition",
+        "format": "doctor",
+        "year_create": 1972,
+        "id_author": 170
+    },
+    {
+        "id_artwork": 823,
+        "name": "recently",
+        "style": "well",
+        "format": "fill",
+        "year_create": 1973,
+        "id_author": 942
+    },
+    {
+        "id_artwork": 824,
+        "name": "health",
+        "style": "candidate",
+        "format": "size",
+        "year_create": 2022,
+        "id_author": 343
+    },
+    {
+        "id_artwork": 825,
+        "name": "growth",
+        "style": "make",
+        "format": "away",
+        "year_create": 1994,
+        "id_author": 687
+    },
+    {
+        "id_artwork": 826,
+        "name": "push",
+        "style": "while",
+        "format": "edge",
+        "year_create": 2012,
+        "id_author": 207
+    },
+    {
+        "id_artwork": 827,
+        "name": "tree",
+        "style": "leg",
+        "format": "contain",
+        "year_create": 2005,
+        "id_author": 394
+    },
+    {
+        "id_artwork": 828,
+        "name": "wear",
+        "style": "pass",
+        "format": "glass",
+        "year_create": 2011,
+        "id_author": 694
+    },
+    {
+        "id_artwork": 829,
+        "name": "such",
+        "style": "home",
+        "format": "government",
+        "year_create": 1976,
+        "id_author": 157
+    },
+    {
+        "id_artwork": 830,
+        "name": "road",
+        "style": "actually",
+        "format": "bit",
+        "year_create": 2015,
+        "id_author": 633
+    },
+    {
+        "id_artwork": 831,
+        "name": "last",
+        "style": "two",
+        "format": "few",
+        "year_create": 1978,
+        "id_author": 773
+    },
+    {
+        "id_artwork": 832,
+        "name": "night",
+        "style": "for",
+        "format": "wear",
+        "year_create": 1994,
+        "id_author": 853
+    },
+    {
+        "id_artwork": 833,
+        "name": "forward",
+        "style": "watch",
+        "format": "line",
+        "year_create": 1973,
+        "id_author": 207
+    },
+    {
+        "id_artwork": 834,
+        "name": "almost",
+        "style": "true",
+        "format": "police",
+        "year_create": 1982,
+        "id_author": 441
+    },
+    {
+        "id_artwork": 835,
+        "name": "health",
+        "style": "forget",
+        "format": "behavior",
+        "year_create": 1998,
+        "id_author": 21
+    },
+    {
+        "id_artwork": 836,
+        "name": "decision",
+        "style": "sell",
+        "format": "show",
+        "year_create": 1983,
+        "id_author": 649
+    },
+    {
+        "id_artwork": 837,
+        "name": "though",
+        "style": "smile",
+        "format": "kind",
+        "year_create": 1982,
+        "id_author": 634
+    },
+    {
+        "id_artwork": 838,
+        "name": "kind",
+        "style": "act",
+        "format": "child",
+        "year_create": 2018,
+        "id_author": 329
+    },
+    {
+        "id_artwork": 839,
+        "name": "many",
+        "style": "easy",
+        "format": "so",
+        "year_create": 1995,
+        "id_author": 746
+    },
+    {
+        "id_artwork": 840,
+        "name": "reflect",
+        "style": "source",
+        "format": "pick",
+        "year_create": 2019,
+        "id_author": 665
+    },
+    {
+        "id_artwork": 841,
+        "name": "prove",
+        "style": "grow",
+        "format": "notice",
+        "year_create": 1988,
+        "id_author": 696
+    },
+    {
+        "id_artwork": 842,
+        "name": "participant",
+        "style": "owner",
+        "format": "story",
+        "year_create": 1995,
+        "id_author": 778
+    },
+    {
+        "id_artwork": 843,
+        "name": "firm",
+        "style": "lot",
+        "format": "whether",
+        "year_create": 1971,
+        "id_author": 95
+    },
+    {
+        "id_artwork": 844,
+        "name": "look",
+        "style": "have",
+        "format": "scene",
+        "year_create": 1998,
+        "id_author": 991
+    },
+    {
+        "id_artwork": 845,
+        "name": "scene",
+        "style": "money",
+        "format": "task",
+        "year_create": 1972,
+        "id_author": 659
+    },
+    {
+        "id_artwork": 846,
+        "name": "south",
+        "style": "must",
+        "format": "especially",
+        "year_create": 1991,
+        "id_author": 475
+    },
+    {
+        "id_artwork": 847,
+        "name": "every",
+        "style": "may",
+        "format": "hair",
+        "year_create": 1999,
+        "id_author": 287
+    },
+    {
+        "id_artwork": 848,
+        "name": "win",
+        "style": "decade",
+        "format": "order",
+        "year_create": 1984,
+        "id_author": 758
+    },
+    {
+        "id_artwork": 849,
+        "name": "something",
+        "style": "sign",
+        "format": "along",
+        "year_create": 1997,
+        "id_author": 324
+    },
+    {
+        "id_artwork": 850,
+        "name": "child",
+        "style": "detail",
+        "format": "bed",
+        "year_create": 1970,
+        "id_author": 984
+    },
+    {
+        "id_artwork": 851,
+        "name": "together",
+        "style": "push",
+        "format": "movie",
+        "year_create": 1978,
+        "id_author": 506
+    },
+    {
+        "id_artwork": 852,
+        "name": "television",
+        "style": "staff",
+        "format": "success",
+        "year_create": 2015,
+        "id_author": 109
+    },
+    {
+        "id_artwork": 853,
+        "name": "ready",
+        "style": "inside",
+        "format": "evidence",
+        "year_create": 1981,
+        "id_author": 150
+    },
+    {
+        "id_artwork": 854,
+        "name": "group",
+        "style": "for",
+        "format": "approach",
+        "year_create": 2010,
+        "id_author": 109
+    },
+    {
+        "id_artwork": 855,
+        "name": "chair",
+        "style": "great",
+        "format": "alone",
+        "year_create": 2019,
+        "id_author": 23
+    },
+    {
+        "id_artwork": 856,
+        "name": "your",
+        "style": "cut",
+        "format": "finally",
+        "year_create": 1972,
+        "id_author": 988
+    },
+    {
+        "id_artwork": 857,
+        "name": "wonder",
+        "style": "cost",
+        "format": "bad",
+        "year_create": 1973,
+        "id_author": 691
+    },
+    {
+        "id_artwork": 858,
+        "name": "middle",
+        "style": "other",
+        "format": "around",
+        "year_create": 2003,
+        "id_author": 533
+    },
+    {
+        "id_artwork": 859,
+        "name": "worry",
+        "style": "sport",
+        "format": "camera",
+        "year_create": 2022,
+        "id_author": 882
+    },
+    {
+        "id_artwork": 860,
+        "name": "break",
+        "style": "assume",
+        "format": "community",
+        "year_create": 1998,
+        "id_author": 735
+    },
+    {
+        "id_artwork": 861,
+        "name": "success",
+        "style": "this",
+        "format": "human",
+        "year_create": 2000,
+        "id_author": 839
+    },
+    {
+        "id_artwork": 862,
+        "name": "spring",
+        "style": "probably",
+        "format": "economy",
+        "year_create": 1986,
+        "id_author": 582
+    },
+    {
+        "id_artwork": 863,
+        "name": "worker",
+        "style": "others",
+        "format": "west",
+        "year_create": 1992,
+        "id_author": 245
+    },
+    {
+        "id_artwork": 864,
+        "name": "rate",
+        "style": "beyond",
+        "format": "size",
+        "year_create": 1974,
+        "id_author": 54
+    },
+    {
+        "id_artwork": 865,
+        "name": "idea",
+        "style": "pressure",
+        "format": "real",
+        "year_create": 1971,
+        "id_author": 759
+    },
+    {
+        "id_artwork": 866,
+        "name": "image",
+        "style": "morning",
+        "format": "fish",
+        "year_create": 2013,
+        "id_author": 972
+    },
+    {
+        "id_artwork": 867,
+        "name": "real",
+        "style": "word",
+        "format": "affect",
+        "year_create": 2000,
+        "id_author": 314
+    },
+    {
+        "id_artwork": 868,
+        "name": "stock",
+        "style": "no",
+        "format": "debate",
+        "year_create": 2022,
+        "id_author": 110
+    },
+    {
+        "id_artwork": 869,
+        "name": "professional",
+        "style": "similar",
+        "format": "enough",
+        "year_create": 2001,
+        "id_author": 62
+    },
+    {
+        "id_artwork": 870,
+        "name": "maintain",
+        "style": "meet",
+        "format": "call",
+        "year_create": 1982,
+        "id_author": 540
+    },
+    {
+        "id_artwork": 871,
+        "name": "color",
+        "style": "especially",
+        "format": "customer",
+        "year_create": 2011,
+        "id_author": 946
+    },
+    {
+        "id_artwork": 872,
+        "name": "bad",
+        "style": "reason",
+        "format": "national",
+        "year_create": 1970,
+        "id_author": 291
+    },
+    {
+        "id_artwork": 873,
+        "name": "bit",
+        "style": "later",
+        "format": "deal",
+        "year_create": 2020,
+        "id_author": 568
+    },
+    {
+        "id_artwork": 874,
+        "name": "particular",
+        "style": "foot",
+        "format": "process",
+        "year_create": 1972,
+        "id_author": 812
+    },
+    {
+        "id_artwork": 875,
+        "name": "name",
+        "style": "I",
+        "format": "others",
+        "year_create": 1999,
+        "id_author": 558
+    },
+    {
+        "id_artwork": 876,
+        "name": "soldier",
+        "style": "soon",
+        "format": "issue",
+        "year_create": 2024,
+        "id_author": 796
+    },
+    {
+        "id_artwork": 877,
+        "name": "alone",
+        "style": "lay",
+        "format": "score",
+        "year_create": 1985,
+        "id_author": 995
+    },
+    {
+        "id_artwork": 878,
+        "name": "thought",
+        "style": "too",
+        "format": "and",
+        "year_create": 1975,
+        "id_author": 313
+    },
+    {
+        "id_artwork": 879,
+        "name": "music",
+        "style": "anyone",
+        "format": "class",
+        "year_create": 2004,
+        "id_author": 48
+    },
+    {
+        "id_artwork": 880,
+        "name": "where",
+        "style": "recognize",
+        "format": "across",
+        "year_create": 1970,
+        "id_author": 22
+    },
+    {
+        "id_artwork": 881,
+        "name": "stock",
+        "style": "parent",
+        "format": "send",
+        "year_create": 2011,
+        "id_author": 560
+    },
+    {
+        "id_artwork": 882,
+        "name": "until",
+        "style": "recently",
+        "format": "treatment",
+        "year_create": 1973,
+        "id_author": 472
+    },
+    {
+        "id_artwork": 883,
+        "name": "structure",
+        "style": "condition",
+        "format": "as",
+        "year_create": 2008,
+        "id_author": 467
+    },
+    {
+        "id_artwork": 884,
+        "name": "whose",
+        "style": "quickly",
+        "format": "answer",
+        "year_create": 2005,
+        "id_author": 911
+    },
+    {
+        "id_artwork": 885,
+        "name": "million",
+        "style": "involve",
+        "format": "maintain",
+        "year_create": 1982,
+        "id_author": 189
+    },
+    {
+        "id_artwork": 886,
+        "name": "pull",
+        "style": "political",
+        "format": "member",
+        "year_create": 1994,
+        "id_author": 609
+    },
+    {
+        "id_artwork": 887,
+        "name": "suddenly",
+        "style": "similar",
+        "format": "into",
+        "year_create": 2015,
+        "id_author": 203
+    },
+    {
+        "id_artwork": 888,
+        "name": "direction",
+        "style": "begin",
+        "format": "common",
+        "year_create": 2014,
+        "id_author": 871
+    },
+    {
+        "id_artwork": 889,
+        "name": "realize",
+        "style": "age",
+        "format": "certain",
+        "year_create": 1976,
+        "id_author": 13
+    },
+    {
+        "id_artwork": 890,
+        "name": "may",
+        "style": "any",
+        "format": "economic",
+        "year_create": 1990,
+        "id_author": 845
+    },
+    {
+        "id_artwork": 891,
+        "name": "nation",
+        "style": "radio",
+        "format": "she",
+        "year_create": 2011,
+        "id_author": 978
+    },
+    {
+        "id_artwork": 892,
+        "name": "black",
+        "style": "effort",
+        "format": "magazine",
+        "year_create": 1978,
+        "id_author": 915
+    },
+    {
+        "id_artwork": 893,
+        "name": "certainly",
+        "style": "western",
+        "format": "theory",
+        "year_create": 1999,
+        "id_author": 775
+    },
+    {
+        "id_artwork": 894,
+        "name": "western",
+        "style": "various",
+        "format": "commercial",
+        "year_create": 1987,
+        "id_author": 299
+    },
+    {
+        "id_artwork": 895,
+        "name": "senior",
+        "style": "animal",
+        "format": "boy",
+        "year_create": 2002,
+        "id_author": 207
+    },
+    {
+        "id_artwork": 896,
+        "name": "laugh",
+        "style": "send",
+        "format": "media",
+        "year_create": 1973,
+        "id_author": 385
+    },
+    {
+        "id_artwork": 897,
+        "name": "discussion",
+        "style": "amount",
+        "format": "indeed",
+        "year_create": 1975,
+        "id_author": 805
+    },
+    {
+        "id_artwork": 898,
+        "name": "can",
+        "style": "friend",
+        "format": "example",
+        "year_create": 1992,
+        "id_author": 753
+    },
+    {
+        "id_artwork": 899,
+        "name": "likely",
+        "style": "involve",
+        "format": "already",
+        "year_create": 1976,
+        "id_author": 516
+    },
+    {
+        "id_artwork": 900,
+        "name": "couple",
+        "style": "seek",
+        "format": "trip",
+        "year_create": 1970,
+        "id_author": 120
+    },
+    {
+        "id_artwork": 901,
+        "name": "him",
+        "style": "song",
+        "format": "current",
+        "year_create": 2012,
+        "id_author": 596
+    },
+    {
+        "id_artwork": 902,
+        "name": "street",
+        "style": "message",
+        "format": "customer",
+        "year_create": 2010,
+        "id_author": 826
+    },
+    {
+        "id_artwork": 903,
+        "name": "political",
+        "style": "despite",
+        "format": "finish",
+        "year_create": 1981,
+        "id_author": 108
+    },
+    {
+        "id_artwork": 904,
+        "name": "firm",
+        "style": "drug",
+        "format": "this",
+        "year_create": 1972,
+        "id_author": 284
+    },
+    {
+        "id_artwork": 905,
+        "name": "wrong",
+        "style": "maintain",
+        "format": "range",
+        "year_create": 1980,
+        "id_author": 278
+    },
+    {
+        "id_artwork": 906,
+        "name": "miss",
+        "style": "development",
+        "format": "network",
+        "year_create": 1978,
+        "id_author": 113
+    },
+    {
+        "id_artwork": 907,
+        "name": "memory",
+        "style": "allow",
+        "format": "move",
+        "year_create": 1980,
+        "id_author": 538
+    },
+    {
+        "id_artwork": 908,
+        "name": "fear",
+        "style": "others",
+        "format": "long",
+        "year_create": 2002,
+        "id_author": 383
+    },
+    {
+        "id_artwork": 909,
+        "name": "when",
+        "style": "management",
+        "format": "wonder",
+        "year_create": 1995,
+        "id_author": 267
+    },
+    {
+        "id_artwork": 910,
+        "name": "political",
+        "style": "sort",
+        "format": "there",
+        "year_create": 2001,
+        "id_author": 82
+    },
+    {
+        "id_artwork": 911,
+        "name": "seven",
+        "style": "imagine",
+        "format": "past",
+        "year_create": 1988,
+        "id_author": 67
+    },
+    {
+        "id_artwork": 912,
+        "name": "foot",
+        "style": "benefit",
+        "format": "decide",
+        "year_create": 1980,
+        "id_author": 209
+    },
+    {
+        "id_artwork": 913,
+        "name": "brother",
+        "style": "year",
+        "format": "answer",
+        "year_create": 2021,
+        "id_author": 231
+    },
+    {
+        "id_artwork": 914,
+        "name": "fine",
+        "style": "book",
+        "format": "court",
+        "year_create": 2001,
+        "id_author": 268
+    },
+    {
+        "id_artwork": 915,
+        "name": "agent",
+        "style": "window",
+        "format": "wish",
+        "year_create": 2019,
+        "id_author": 88
+    },
+    {
+        "id_artwork": 916,
+        "name": "character",
+        "style": "west",
+        "format": "hospital",
+        "year_create": 1992,
+        "id_author": 357
+    },
+    {
+        "id_artwork": 917,
+        "name": "these",
+        "style": "mention",
+        "format": "teacher",
+        "year_create": 1978,
+        "id_author": 942
+    },
+    {
+        "id_artwork": 918,
+        "name": "pull",
+        "style": "history",
+        "format": "heavy",
+        "year_create": 2014,
+        "id_author": 142
+    },
+    {
+        "id_artwork": 919,
+        "name": "music",
+        "style": "series",
+        "format": "organization",
+        "year_create": 2022,
+        "id_author": 617
+    },
+    {
+        "id_artwork": 920,
+        "name": "strong",
+        "style": "mother",
+        "format": "speak",
+        "year_create": 2017,
+        "id_author": 494
+    },
+    {
+        "id_artwork": 921,
+        "name": "majority",
+        "style": "defense",
+        "format": "I",
+        "year_create": 1980,
+        "id_author": 7
+    },
+    {
+        "id_artwork": 922,
+        "name": "unit",
+        "style": "already",
+        "format": "skill",
+        "year_create": 1973,
+        "id_author": 702
+    },
+    {
+        "id_artwork": 923,
+        "name": "hundred",
+        "style": "hundred",
+        "format": "security",
+        "year_create": 1986,
+        "id_author": 814
+    },
+    {
+        "id_artwork": 924,
+        "name": "for",
+        "style": "themselves",
+        "format": "after",
+        "year_create": 2006,
+        "id_author": 434
+    },
+    {
+        "id_artwork": 925,
+        "name": "green",
+        "style": "skin",
+        "format": "natural",
+        "year_create": 2002,
+        "id_author": 333
+    },
+    {
+        "id_artwork": 926,
+        "name": "no",
+        "style": "detail",
+        "format": "employee",
+        "year_create": 2007,
+        "id_author": 450
+    },
+    {
+        "id_artwork": 927,
+        "name": "free",
+        "style": "build",
+        "format": "hotel",
+        "year_create": 1977,
+        "id_author": 174
+    },
+    {
+        "id_artwork": 928,
+        "name": "similar",
+        "style": "if",
+        "format": "final",
+        "year_create": 2005,
+        "id_author": 464
+    },
+    {
+        "id_artwork": 929,
+        "name": "call",
+        "style": "down",
+        "format": "message",
+        "year_create": 2019,
+        "id_author": 297
+    },
+    {
+        "id_artwork": 930,
+        "name": "admit",
+        "style": "country",
+        "format": "charge",
+        "year_create": 2002,
+        "id_author": 445
+    },
+    {
+        "id_artwork": 931,
+        "name": "still",
+        "style": "every",
+        "format": "draw",
+        "year_create": 2015,
+        "id_author": 486
+    },
+    {
+        "id_artwork": 932,
+        "name": "defense",
+        "style": "nor",
+        "format": "cut",
+        "year_create": 1979,
+        "id_author": 542
+    },
+    {
+        "id_artwork": 933,
+        "name": "smile",
+        "style": "high",
+        "format": "some",
+        "year_create": 2023,
+        "id_author": 991
+    },
+    {
+        "id_artwork": 934,
+        "name": "magazine",
+        "style": "research",
+        "format": "yes",
+        "year_create": 2004,
+        "id_author": 108
+    },
+    {
+        "id_artwork": 935,
+        "name": "several",
+        "style": "future",
+        "format": "strong",
+        "year_create": 2013,
+        "id_author": 442
+    },
+    {
+        "id_artwork": 936,
+        "name": "last",
+        "style": "together",
+        "format": "agent",
+        "year_create": 1998,
+        "id_author": 522
+    },
+    {
+        "id_artwork": 937,
+        "name": "show",
+        "style": "resource",
+        "format": "health",
+        "year_create": 1985,
+        "id_author": 99
+    },
+    {
+        "id_artwork": 938,
+        "name": "strategy",
+        "style": "two",
+        "format": "whose",
+        "year_create": 2019,
+        "id_author": 716
+    },
+    {
+        "id_artwork": 939,
+        "name": "risk",
+        "style": "from",
+        "format": "open",
+        "year_create": 2019,
+        "id_author": 882
+    },
+    {
+        "id_artwork": 940,
+        "name": "another",
+        "style": "respond",
+        "format": "possible",
+        "year_create": 2020,
+        "id_author": 634
+    },
+    {
+        "id_artwork": 941,
+        "name": "couple",
+        "style": "physical",
+        "format": "on",
+        "year_create": 1993,
+        "id_author": 604
+    },
+    {
+        "id_artwork": 942,
+        "name": "admit",
+        "style": "feel",
+        "format": "admit",
+        "year_create": 1980,
+        "id_author": 715
+    },
+    {
+        "id_artwork": 943,
+        "name": "assume",
+        "style": "represent",
+        "format": "television",
+        "year_create": 2016,
+        "id_author": 964
+    },
+    {
+        "id_artwork": 944,
+        "name": "writer",
+        "style": "significant",
+        "format": "green",
+        "year_create": 2004,
+        "id_author": 787
+    },
+    {
+        "id_artwork": 945,
+        "name": "yourself",
+        "style": "call",
+        "format": "describe",
+        "year_create": 1980,
+        "id_author": 729
+    },
+    {
+        "id_artwork": 946,
+        "name": "fight",
+        "style": "be",
+        "format": "dream",
+        "year_create": 2000,
+        "id_author": 598
+    },
+    {
+        "id_artwork": 947,
+        "name": "gun",
+        "style": "appear",
+        "format": "employee",
+        "year_create": 2002,
+        "id_author": 467
+    },
+    {
+        "id_artwork": 948,
+        "name": "character",
+        "style": "budget",
+        "format": "decision",
+        "year_create": 1994,
+        "id_author": 618
+    },
+    {
+        "id_artwork": 949,
+        "name": "somebody",
+        "style": "cup",
+        "format": "job",
+        "year_create": 1990,
+        "id_author": 820
+    },
+    {
+        "id_artwork": 950,
+        "name": "miss",
+        "style": "out",
+        "format": "again",
+        "year_create": 1970,
+        "id_author": 408
+    },
+    {
+        "id_artwork": 951,
+        "name": "skin",
+        "style": "president",
+        "format": "include",
+        "year_create": 2007,
+        "id_author": 81
+    },
+    {
+        "id_artwork": 952,
+        "name": "able",
+        "style": "themselves",
+        "format": "whole",
+        "year_create": 2013,
+        "id_author": 511
+    },
+    {
+        "id_artwork": 953,
+        "name": "list",
+        "style": "quickly",
+        "format": "international",
+        "year_create": 2022,
+        "id_author": 311
+    },
+    {
+        "id_artwork": 954,
+        "name": "minute",
+        "style": "type",
+        "format": "doctor",
+        "year_create": 1989,
+        "id_author": 885
+    },
+    {
+        "id_artwork": 955,
+        "name": "wrong",
+        "style": "mother",
+        "format": "newspaper",
+        "year_create": 2003,
+        "id_author": 364
+    },
+    {
+        "id_artwork": 956,
+        "name": "miss",
+        "style": "us",
+        "format": "life",
+        "year_create": 2009,
+        "id_author": 469
+    },
+    {
+        "id_artwork": 957,
+        "name": "somebody",
+        "style": "it",
+        "format": "successful",
+        "year_create": 1988,
+        "id_author": 540
+    },
+    {
+        "id_artwork": 958,
+        "name": "professional",
+        "style": "conference",
+        "format": "close",
+        "year_create": 1991,
+        "id_author": 448
+    },
+    {
+        "id_artwork": 959,
+        "name": "their",
+        "style": "exist",
+        "format": "bank",
+        "year_create": 1986,
+        "id_author": 85
+    },
+    {
+        "id_artwork": 960,
+        "name": "movement",
+        "style": "defense",
+        "format": "surface",
+        "year_create": 1997,
+        "id_author": 322
+    },
+    {
+        "id_artwork": 961,
+        "name": "recent",
+        "style": "ability",
+        "format": "strategy",
+        "year_create": 2010,
+        "id_author": 429
+    },
+    {
+        "id_artwork": 962,
+        "name": "become",
+        "style": "wall",
+        "format": "bed",
+        "year_create": 2001,
+        "id_author": 578
+    },
+    {
+        "id_artwork": 963,
+        "name": "door",
+        "style": "down",
+        "format": "how",
+        "year_create": 1993,
+        "id_author": 620
+    },
+    {
+        "id_artwork": 964,
+        "name": "serve",
+        "style": "century",
+        "format": "he",
+        "year_create": 2016,
+        "id_author": 986
+    },
+    {
+        "id_artwork": 965,
+        "name": "number",
+        "style": "front",
+        "format": "quickly",
+        "year_create": 2015,
+        "id_author": 558
+    },
+    {
+        "id_artwork": 966,
+        "name": "movement",
+        "style": "woman",
+        "format": "pressure",
+        "year_create": 2020,
+        "id_author": 569
+    },
+    {
+        "id_artwork": 967,
+        "name": "for",
+        "style": "physical",
+        "format": "lead",
+        "year_create": 2006,
+        "id_author": 551
+    },
+    {
+        "id_artwork": 968,
+        "name": "politics",
+        "style": "actually",
+        "format": "if",
+        "year_create": 1994,
+        "id_author": 816
+    },
+    {
+        "id_artwork": 969,
+        "name": "might",
+        "style": "crime",
+        "format": "water",
+        "year_create": 1970,
+        "id_author": 255
+    },
+    {
+        "id_artwork": 970,
+        "name": "indicate",
+        "style": "even",
+        "format": "interesting",
+        "year_create": 2001,
+        "id_author": 347
+    },
+    {
+        "id_artwork": 971,
+        "name": "boy",
+        "style": "per",
+        "format": "evidence",
+        "year_create": 1987,
+        "id_author": 986
+    },
+    {
+        "id_artwork": 972,
+        "name": "chance",
+        "style": "consider",
+        "format": "represent",
+        "year_create": 1981,
+        "id_author": 324
+    },
+    {
+        "id_artwork": 973,
+        "name": "toward",
+        "style": "star",
+        "format": "board",
+        "year_create": 1991,
+        "id_author": 298
+    },
+    {
+        "id_artwork": 974,
+        "name": "family",
+        "style": "now",
+        "format": "not",
+        "year_create": 2023,
+        "id_author": 506
+    },
+    {
+        "id_artwork": 975,
+        "name": "medical",
+        "style": "red",
+        "format": "culture",
+        "year_create": 1972,
+        "id_author": 104
+    },
+    {
+        "id_artwork": 976,
+        "name": "identify",
+        "style": "ahead",
+        "format": "someone",
+        "year_create": 2021,
+        "id_author": 243
+    },
+    {
+        "id_artwork": 977,
+        "name": "continue",
+        "style": "these",
+        "format": "send",
+        "year_create": 2001,
+        "id_author": 271
+    },
+    {
+        "id_artwork": 978,
+        "name": "hour",
+        "style": "somebody",
+        "format": "focus",
+        "year_create": 2019,
+        "id_author": 921
+    },
+    {
+        "id_artwork": 979,
+        "name": "where",
+        "style": "million",
+        "format": "billion",
+        "year_create": 1997,
+        "id_author": 202
+    },
+    {
+        "id_artwork": 980,
+        "name": "rock",
+        "style": "until",
+        "format": "sign",
+        "year_create": 2017,
+        "id_author": 74
+    },
+    {
+        "id_artwork": 981,
+        "name": "know",
+        "style": "everyone",
+        "format": "enter",
+        "year_create": 2003,
+        "id_author": 786
+    },
+    {
+        "id_artwork": 982,
+        "name": "arrive",
+        "style": "ok",
+        "format": "number",
+        "year_create": 1980,
+        "id_author": 831
+    },
+    {
+        "id_artwork": 983,
+        "name": "expert",
+        "style": "nice",
+        "format": "contain",
+        "year_create": 1983,
+        "id_author": 955
+    },
+    {
+        "id_artwork": 984,
+        "name": "appear",
+        "style": "read",
+        "format": "try",
+        "year_create": 2013,
+        "id_author": 963
+    },
+    {
+        "id_artwork": 985,
+        "name": "result",
+        "style": "listen",
+        "format": "letter",
+        "year_create": 1971,
+        "id_author": 593
+    },
+    {
+        "id_artwork": 986,
+        "name": "anything",
+        "style": "cut",
+        "format": "blood",
+        "year_create": 1975,
+        "id_author": 445
+    },
+    {
+        "id_artwork": 987,
+        "name": "however",
+        "style": "nothing",
+        "format": "now",
+        "year_create": 1994,
+        "id_author": 951
+    },
+    {
+        "id_artwork": 988,
+        "name": "tree",
+        "style": "stuff",
+        "format": "sense",
+        "year_create": 2015,
+        "id_author": 61
+    },
+    {
+        "id_artwork": 989,
+        "name": "song",
+        "style": "year",
+        "format": "produce",
+        "year_create": 1988,
+        "id_author": 15
+    },
+    {
+        "id_artwork": 990,
+        "name": "cost",
+        "style": "while",
+        "format": "mean",
+        "year_create": 2005,
+        "id_author": 144
+    },
+    {
+        "id_artwork": 991,
+        "name": "learn",
+        "style": "field",
+        "format": "his",
+        "year_create": 1979,
+        "id_author": 417
+    },
+    {
+        "id_artwork": 992,
+        "name": "right",
+        "style": "work",
+        "format": "arrive",
+        "year_create": 1996,
+        "id_author": 910
+    },
+    {
+        "id_artwork": 993,
+        "name": "show",
+        "style": "season",
+        "format": "entire",
+        "year_create": 1988,
+        "id_author": 323
+    },
+    {
+        "id_artwork": 994,
+        "name": "soon",
+        "style": "summer",
+        "format": "full",
+        "year_create": 2021,
+        "id_author": 399
+    },
+    {
+        "id_artwork": 995,
+        "name": "participant",
+        "style": "plant",
+        "format": "raise",
+        "year_create": 2004,
+        "id_author": 258
+    },
+    {
+        "id_artwork": 996,
+        "name": "study",
+        "style": "conference",
+        "format": "purpose",
+        "year_create": 2006,
+        "id_author": 326
+    },
+    {
+        "id_artwork": 997,
+        "name": "ball",
+        "style": "into",
+        "format": "realize",
+        "year_create": 1994,
+        "id_author": 405
+    },
+    {
+        "id_artwork": 998,
+        "name": "future",
+        "style": "break",
+        "format": "democratic",
+        "year_create": 1978,
+        "id_author": 959
+    },
+    {
+        "id_artwork": 999,
+        "name": "more",
+        "style": "next",
+        "format": "full",
+        "year_create": 1995,
+        "id_author": 957
+    }
+]

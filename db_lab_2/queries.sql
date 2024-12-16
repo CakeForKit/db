@@ -390,3 +390,11 @@ from information_schema.tables t
 join information_schema.columns c on t.table_name = c.table_name
 where t.table_schema = 'public'
 order by t.table_name, c.column_name
+
+
+select COLUMN_NAME
+from information_schema.columns
+where table_name = 'artwork' 
+
+
+select * from artwork
