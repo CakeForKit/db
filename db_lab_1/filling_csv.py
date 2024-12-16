@@ -1,10 +1,10 @@
-import psycopg2
+# import psycopg2
 import random
 import datetime
 from faker import Faker
 
 COUNT = 1000  # количество строк таблицы, которое хотим заполнить
-path_to_data = 'C:\data_db\\'
+path_to_data = './data_csv/'
 
 
 def author_filling():
