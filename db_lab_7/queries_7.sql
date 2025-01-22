@@ -38,6 +38,10 @@ where id_exhibition = 1
 
 # воробушки - чтение с диска одной таблицы данных
 
+select * from artwork
 
-explain ANALYSE
-select * from artwork a
+VACUUM ANALYSE
+
+explain --ANALYSE
+select * from artwork 
+where id_artwork < 100 and name = 'Mrs'
