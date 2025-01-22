@@ -26,7 +26,7 @@ def em_fill():
         conn.commit()
     conn.close()
 
-em_fill()
+# em_fill()
 
 def rates_fill():
     conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
@@ -46,7 +46,7 @@ def rates_fill():
         conn.commit()
     conn.close()
 
-rates_fill()
+# rates_fill()
 
 def op_exchange_fill():
     conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
@@ -66,7 +66,7 @@ def op_exchange_fill():
         conn.commit()
     conn.close()
 
-op_exchange_fill()
+# op_exchange_fill()
 
 def types_currencies_fill():
     conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
@@ -85,7 +85,7 @@ def types_currencies_fill():
         conn.commit()
     conn.close()
 
-types_currencies_fill()
+# types_currencies_fill()
 
 def currencies_rates_fill():
     conn = psycopg2.connect(dbname='postgres', host='localhost', user='postgres', password='163785303')
@@ -104,7 +104,7 @@ def currencies_rates_fill():
         conn.commit()
     conn.close()
 
-currencies_rates_fill()
+# currencies_rates_fill()
 
 def author_filling():
     fake = Faker()
@@ -153,12 +153,14 @@ def owner_of_artwork_filling():
 def owner_of_artworkship_history_filling():
     fake = Faker()
     # INSERT INTO author (id_author, first_name, last_name, birth_year, death_year) VALUES (1, 'qwe', 'wer', 2000, 2020)
-    table_name = "owner_of_artworkship_history"
-    column_names = ', '.join(('id_owner_of_artwork', 'id_artwork'))
+    table_name = "history_of_ownership_artwork"
+    column_names = ', '.join(('id_owner_of_artwork', 'id_artwork', 'date_purchase', 'date_sale'))
 
     query = f'DELETE FROM {table_name};\n'
     for i in range(COUNT):
-        vals = f"{i}, {random.randint(0, COUNT - 1)}"
+        begin = fake.date_object()
+        end = fake.date_between(begin)
+        vals = f"{i}, {random.randint(0, COUNT - 1)}, '{begin}', '{end}'"
 
         query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
 
@@ -172,32 +174,49 @@ def exhibition_filling():
 
     query = f'DELETE FROM {table_name};\n'
     for i in range(COUNT):
-        begin = random.randint(0, 2024)
-        end = random.randint(begin + 1, 2024)
+        begin = fake.date_object()
+        end = fake.date_between(begin)
         vals = f"{i}, '{fake.word()}', '{begin}', '{end}', '{fake.address()}'"
-
         query += f"INSERT INTO {table_name} ({column_names}) VALUES ({vals});\n"
 
     return query
 
-def filling():
-    conn = psycopg2.connect(dbname='works_of_art', host='localhost', user='postgres', password='163785303')
+def history_of_ownership_artwork_adding(count_add):
+    fake = Faker()
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='root', password='postgres', port='5433')
     with conn.cursor() as cursor:
-        # query = 'SELECT * FROM author'
-        query = author_filling()
-        query += artwork_filling()
-        query += owner_of_artwork_filling()
-        query += owner_of_artworkship_history_filling()
-        query += exhibition_filling()
+
+        table_name = "history_of_ownership_artwork"
+        column_names = ', '.join(('id_owner_of_artwork', 'id_artwork', 'date_purchase', 'date_sale'))
+
+        # Получить результат
+        cursor.execute(f"SELECT count(*) from {table_name}")
+        len_history_owner_of_artwork = cursor.fetchall()[0][0]
+        cursor.execute(f"SELECT count(*) from artwork")
+        len_artwork = cursor.fetchall()[0][0] - 1
+        cursor.execute(f"SELECT count(*) from owner_of_artwork")
+        len_owner_of_artwork = cursor.fetchall()[0][0] - 1
+        print(f'len_history_owner_of_artwork = {len_history_owner_of_artwork}\n'
+              f'len_artwork = {len_artwork}\n'
+              f'len_owner_of_artwork = {len_owner_of_artwork}')
+
+        query = ''
+        i = len_history_owner_of_artwork + 1
+        for exh_i in [random.randint(0, len_owner_of_artwork) for i in range(count_add)]:
+            art_i = random.randint(0, len_artwork)
+            begin = fake.date_object()
+            end = fake.date_between(begin)
+            query += f"INSERT INTO {table_name} ({column_names}) VALUES ({art_i}, {exh_i}, '{begin}', '{end}');\n"
+
+        print(query)
         cursor.execute(query)
-        # record = cursor.fetchall()
-        # print(record)
+
         conn.commit()
+
     conn.close()
 
-
-def history_exhibition_adding():
-    conn = psycopg2.connect(dbname='works_of_art', host='localhost', user='postgres', password='163785303')
+def history_exhibition_adding(count_add):
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='root', password='postgres', port='5433')
     with conn.cursor() as cursor:
 
         table_name = "history_exhibition"
@@ -205,17 +224,16 @@ def history_exhibition_adding():
 
         # Получить результат
         cursor.execute(f"SELECT count(*) from {table_name}")
-        len_history_exhibition = cursor.fetchall()[0][0]
+        len_history_exhibition = cursor.fetchall()[0][0] - 1
         cursor.execute(f"SELECT count(*) from artwork")
-        len_artwork = cursor.fetchall()[0][0]
+        len_artwork = cursor.fetchall()[0][0] - 1
         cursor.execute(f"SELECT count(*) from exhibition")
-        len_exhibition = cursor.fetchall()[0][0]
+        len_exhibition = cursor.fetchall()[0][0] - 1
         print(f'len_history_exhibition = {len_history_exhibition}\n'
               f'len_artwork = {len_artwork}\n'
               f'len_exhibition = {len_exhibition}')
 
         query = ''
-        count_add = 500
         i = len_history_exhibition + 1
         for exh_i in [random.randint(0, len_exhibition) for i in range(count_add)]:
             art_i = random.randint(0, len_artwork)
@@ -228,6 +246,25 @@ def history_exhibition_adding():
         conn.commit()
 
     conn.close()
+
+def filling():
+    conn = psycopg2.connect(dbname='postgres', host='localhost', user='root', password='postgres', port='5433')
+    with conn.cursor() as cursor:
+        # query = 'SELECT * FROM author'
+        query = author_filling()
+        query += artwork_filling()
+        query += owner_of_artwork_filling()
+        query += exhibition_filling()
+        cursor.execute(query)
+        # record = cursor.fetchall()
+        # print(record)
+        conn.commit()
+    conn.close()
+    
+# filling()
+# history_exhibition_adding(1000)
+history_of_ownership_artwork_adding(1000)
+
 
 
 

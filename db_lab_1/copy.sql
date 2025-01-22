@@ -5,11 +5,11 @@
 -- DELETE FROM owner_of_artwork;
 -- DELETE FROM exhibition;
 
-COPY author FROM 'C:\data_db\author.csv' delimiter ';' CSV;
-COPY artwork FROM 'C:\data_db\artwork.csv' delimiter ';' CSV;
-COPY owner_of_artwork FROM 'C:\data_db\owner_of_artwork.csv' delimiter ';' CSV;
-COPY history_of_ownership_artwork FROM 'C:\data_db\history_of_ownership_artwork.csv' delimiter ';' CSV;
-COPY exhibition FROM 'C:\data_db\exhibition.csv' delimiter ';' CSV;
-COPY history_exhibition FROM 'C:\data_db\history_exhibition.csv' delimiter ';' CSV;
+COPY author FROM '/var/lib/postgresql/data/pgdata/author.csv' delimiter ';' CSV;
+COPY artwork FROM '/var/lib/postgresql/data/pgdata/artwork.csv' delimiter ';' CSV;
+COPY owner_of_artwork FROM '/var/lib/postgresql/data/pgdata/owner_of_artwork.csv' delimiter ';' CSV;
+COPY history_of_ownership_artwork FROM '/var/lib/postgresql/data/pgdata/history_of_ownership_artwork.csv' delimiter ';' CSV;
+COPY exhibition FROM '/var/lib/postgresql/data/pgdata/exhibition.csv' delimiter ';' CSV;
+COPY history_exhibition FROM '/var/lib/postgresql/data/pgdata/history_exhibition.csv' delimiter ';' CSV;
 
 

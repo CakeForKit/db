@@ -1,5 +1,11 @@
 -- vacuum full author, exhibition, history_exhibition, owner_of_artwork, owner_of_artworkship_history
 
+select * from author
+
+select count(*) from history_exhibition
+
+select count(*) from history_of_ownership_artwork
+
 -- 1. Инструкция SELECT, использующая предикат сравнения.
 -- Список авторов 20 века
 select * from author
