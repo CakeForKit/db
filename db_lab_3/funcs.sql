@@ -24,7 +24,8 @@ from
 	(select id_author, count(*) as count_works
 	from artwork
 	group by id_author) as tmp
-order by tmp.count_works $$ language sql;
+order by tmp.count_works $$ 
+language sql;
 select *
 from authors_and_cnt_works();
 
